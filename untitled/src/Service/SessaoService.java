@@ -27,10 +27,6 @@ public class SessaoService {
         return new ArrayList<>(nomesBairros);
     }
 
-    public List<Sessao> candidadosMaisVotadosBairro() {
-       return  new ArrayList<>();
-    }
-
 
 
 

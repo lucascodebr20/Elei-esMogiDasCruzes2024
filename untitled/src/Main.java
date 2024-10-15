@@ -1,6 +1,7 @@
 import Model.Candidato;
 import Model.Sessao;
 import Model.Voto;
+import Service.CandidatoService;
 import Service.SessaoService;
 import Util.LeituraDados;
 import View.View;
@@ -27,9 +28,10 @@ public class Main {
         leituraDados.lerDadosVotos("resultado-votacao-secao-editado.txt");
 
         SessaoService sessaoService = new SessaoService(candidatos,votos,sessoes);
+        CandidatoService candidatoService = new CandidatoService(candidatos,votos,sessoes);
 
-
-
-
+        candidatoService.votosPorSessao("UNIVERSIDADE DE MOGI DAS CRUZES ","22222");
+        //candidatoService.sessoesMaisVotadasDeUmCandidato("22222");
+        candidatoService.rankCandidatoVotadoBairro("Centro");
     }
 }

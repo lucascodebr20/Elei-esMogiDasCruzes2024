@@ -68,7 +68,7 @@ public class Sessao {
     @Override
     public String toString() {
         return "SESSAO: " +
-                "Model.Sessao: " + sessao + '\'' +
+                "Sessao: " + sessao + '\'' +
                 ", Colegio: " + colegio + '\'' +
                 ", Logadouro: " + logadouro + '\'' +
                 ", Bairro: " + bairro + '\'' +

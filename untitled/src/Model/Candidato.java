@@ -186,7 +186,7 @@ public class Candidato {
 
     @Override
     public String toString() {
-        return "Model.CandidatoService " +
+        return "Candidato " +
                 " - Nome: " + Nome + '\'' +
                 " - NumeroCandidato: '" + NumeroCandidato + '\'';
     }
