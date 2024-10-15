@@ -67,7 +67,7 @@ public class CandidatoService {
         return resultadoOrdenado;
     }
 
-    public Map<Sessao, Integer> bairrosMaisVotadasDeUmCandidato(String numeroCandidato) {
+    public Map<String, Integer> bairrosMaisVotadasDeUmCandidato(String numeroCandidato) {
         Map<Sessao, Integer> quantidadeVotosBairro = colegioMaisVotadasDeUmCandidato(numeroCandidato);
         Map<String, Integer> valorFinalSomado = new HashMap<>();
         List<String> bairrosUnicos = listaBairros();
@@ -93,7 +93,7 @@ public class CandidatoService {
                         Map.Entry::getValue,
                         (e2, e1) -> e2, LinkedHashMap::new));
 
-        return quantidadeVotosBairro;
+        return resultadoOrdenado;
 
     }
 

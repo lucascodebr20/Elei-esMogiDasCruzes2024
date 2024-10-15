@@ -87,21 +87,21 @@ public class View {
 
         System.out.println();
 
-        Map<Sessao, Integer> bairrosMaisVotado = candidatoService.bairrosMaisVotadasDeUmCandidato(numeroCandidato);
+        Map<String, Integer> bairrosMaisVotado = candidatoService.bairrosMaisVotadasDeUmCandidato(numeroCandidato);
 
         System.out.println("BAIRRO MAIS VOTADOS!");
 
         int contador2 = 0;
 
-        for (Map.Entry<Sessao, Integer> entry : bairrosMaisVotado.entrySet()) {
+        for (Map.Entry<String, Integer> entry : bairrosMaisVotado.entrySet()) {
             if (contador2 == 10) {
                 break;
             }
-            Sessao sessao = entry.getKey();
+            String bairro = entry.getKey();
             Integer votos = entry.getValue();
             System.out.println(
                     "----------------------------" + "\n" +
-                            " BAIRRO: " + sessao.getBairro() + "\n" +
+                            " BAIRRO: " + bairro + "\n" +
                             " TOTAL DE VOTOS: " + votos);
             contador2++;
         }
