@@ -1,0 +1,979 @@
+Model.Sessao,Nome,Logadouro,Bairro,Telefone,Zona Eleitoral
+1,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+2,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+3,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+4,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+5,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+6,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+7,E.E. APRIGIO DE OLIVEIRA ,"R. Senador Dantas , nº 1000 ",Centro,(11) 4799-5225 ,74
+8,E.E. APRIGIO DE OLIVEIRA ,"R. Senador Dantas , nº 1000 ",Centro,(11) 4799-5225 ,74
+9,E.E. APRIGIO DE OLIVEIRA ,"R. Senador Dantas , nº 1000 ",Centro,(11) 4799-5225 ,74
+10,E.E. APRIGIO DE OLIVEIRA ,"R. Senador Dantas , nº 1000 ",Centro,(11) 4799-5225 ,74
+11,E.E. APRIGIO DE OLIVEIRA ,"R. Senador Dantas , nº 1000 ",Centro,(11) 4799-5225 ,74
+12,E.E. APRIGIO DE OLIVEIRA ,"R. Senador Dantas , nº 1000 ",Centro,(11) 4799-5225 ,74
+13,E.E. APRIGIO DE OLIVEIRA ,"R. Senador Dantas , nº 1000 ",Centro,(11) 4799-5225 ,74
+14,E.E. APRIGIO DE OLIVEIRA ,"R. Senador Dantas , nº 1000 ",Centro,(11) 4799-5225 ,74
+15,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+16,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+17,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+18,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+19,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+20,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+21,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+22,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+23,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+24,E.E. PROF. CAMILO FAUSTINO DE MELLO ,"R. Elisa Dasambiágio, nº 209 ",Socorro,(11) 4796-5250 ,74
+25,E.E. PROF. CAMILO FAUSTINO DE MELLO ,"R. Elisa Dasambiágio, nº 209 ",Socorro,(11) 4796-5250 ,74
+26,E.E. PROF. CAMILO FAUSTINO DE MELLO ,"R. Elisa Dasambiágio, nº 209 ",Socorro,(11) 4796-5250 ,74
+27,E.E. PROF. CAMILO FAUSTINO DE MELLO ,"R. Elisa Dasambiágio, nº 209 ",Socorro,(11) 4796-5250 ,74
+28,E.E. PROF. CAMILO FAUSTINO DE MELLO ,"R. Elisa Dasambiágio, nº 209 ",Socorro,(11) 4796-5250 ,74
+29,E.E. PROF. CAMILO FAUSTINO DE MELLO ,"R. Elisa Dasambiágio, nº 209 ",Socorro,(11) 4796-5250 ,74
+30,E.E. PROF. CAMILO FAUSTINO DE MELLO ,"R. Elisa Dasambiágio, nº 209 ",Socorro,(11) 4796-5250 ,74
+31,E.E. PROF. CAMILO FAUSTINO DE MELLO ,"R. Elisa Dasambiágio, nº 209 ",Socorro,(11) 4796-5250 ,74
+32,E.E. PROF. CAMILO FAUSTINO DE MELLO ,"R. Elisa Dasambiágio, nº 209 ",Socorro,(11) 4796-5250 ,74
+33,E.E. PROF. CAMILO FAUSTINO DE MELLO ,"R. Elisa Dasambiágio, nº 209 ",Socorro,(11) 4796-5250 ,74
+34,E.E. PROF. CAMILO FAUSTINO DE MELLO ,"R. Elisa Dasambiágio, nº 209 ",Socorro,(11) 4796-5250 ,74
+35,E.E. PROF. CAMILO FAUSTINO DE MELLO ,"R. Elisa Dasambiágio, nº 209 ",Socorro,(11) 4796-5250 ,74
+36,E.E. PROF. CAMILO FAUSTINO DE MELLO ,"R. Elisa Dasambiágio, nº 209 ",Socorro,(11) 4796-5250 ,74
+37,E.E. PROF. CAMILO FAUSTINO DE MELLO ,"R. Elisa Dasambiágio, nº 209 ",Socorro,(11) 4796-5250 ,74
+38,E.M. PROF. RODOLPHO MEHLMANN ,"R. dos Vicentinos, nº 1215 ",Vila Natal,(11) 4725-1985 ,74
+39,E.M. PROF. RODOLPHO MEHLMANN ,"R. dos Vicentinos, nº 1215 ",Vila Natal,(11) 4725-1985 ,74
+40,E.M. PROF. RODOLPHO MEHLMANN ,"R. dos Vicentinos, nº 1215 ",Vila Natal,(11) 4725-1985 ,74
+41,E.M. PROF. RODOLPHO MEHLMANN ,"R. dos Vicentinos, nº 1215 ",Vila Natal,(11) 4725-1985 ,74
+42,E.M. PROF. RODOLPHO MEHLMANN ,"R. dos Vicentinos, nº 1215 ",Vila Natal,(11) 4725-1985 ,74
+43,E.M. PROF. RODOLPHO MEHLMANN ,"R. dos Vicentinos, nº 1215 ",Vila Natal,(11) 4725-1985 ,74
+44,E.M. PROF. RODOLPHO MEHLMANN ,"R. dos Vicentinos, nº 1215 ",Vila Natal,(11) 4725-1985 ,74
+45,E.E. VER. NARCISO YAGUE GUIMARÃES ,"R. Desidério Jorge , s/nº ",Vila Natal,(11) 4796-2779,74
+46,E.E. VER. NARCISO YAGUE GUIMARÃES ,"R. Desidério Jorge , s/nº ",Vila Natal,(11) 4796-2780,74
+47,E.E. VER. NARCISO YAGUE GUIMARÃES ,"R. Desidério Jorge , s/nº ",Vila Natal,(11) 4796-2781,74
+48,E.E. VER. NARCISO YAGUE GUIMARÃES ,"R. Desidério Jorge , s/nº ",Vila Natal,(11) 4796-2782,74
+49, E.E. PROFª. ENEDINA GOMES DE FREITAS," R. Jugurta Lourival Glória, nº 62",Jardim Camila, (11) 4796-1428,74
+50, E.E. PROFª. ENEDINA GOMES DE FREITAS," R. Jugurta Lourival Glória, nº 62",Jardim Camila, (11) 4796-1428,74
+51, E.E. PROFª. ENEDINA GOMES DE FREITAS," R. Jugurta Lourival Glória, nº 62",Jardim Camila, (11) 4796-1428,74
+52, E.E. PROFª. ENEDINA GOMES DE FREITAS," R. Jugurta Lourival Glória, nº 62",Jardim Camila, (11) 4796-1428,74
+53, E.E. PROFª. ENEDINA GOMES DE FREITAS," R. Jugurta Lourival Glória, nº 62",Jardim Camila, (11) 4796-1428,74
+54, E.E. PROFª. ENEDINA GOMES DE FREITAS," R. Jugurta Lourival Glória, nº 62",Jardim Camila, (11) 4796-1428,74
+55, E.E. PROFª. ENEDINA GOMES DE FREITAS," R. Jugurta Lourival Glória, nº 62",Jardim Camila, (11) 4796-1428,74
+56, E.E. PROF. FIRMINO LADEIRA," Av. Brasil, nº 840", Mogi Moderno, (11) 4799-4551,74
+57, E.E. PROF. FIRMINO LADEIRA," Av. Brasil, nº 840", Mogi Moderno, (11) 4799-4551,74
+58, E.E. PROF. FIRMINO LADEIRA," Av. Brasil, nº 840", Mogi Moderno, (11) 4799-4551,74
+59, E.E. PROF. FIRMINO LADEIRA," Av. Brasil, nº 840", Mogi Moderno, (11) 4799-4551,74
+60, E.E. PROF. FIRMINO LADEIRA," Av. Brasil, nº 840", Mogi Moderno, (11) 4799-4551,74
+61, E.E. PROF. FIRMINO LADEIRA," Av. Brasil, nº 840", Mogi Moderno, (11) 4799-4551,74
+62, E.E. PROF. FIRMINO LADEIRA," Av. Brasil, nº 840", Mogi Moderno, (11) 4799-4551,74
+63, E.E. PROF. FIRMINO LADEIRA," Av. Brasil, nº 840", Mogi Moderno, (11) 4799-4551,74
+64, E.E. PROF. FIRMINO LADEIRA," Av. Brasil, nº 840", Mogi Moderno, (11) 4799-4551,74
+65, E.E. PROF. FIRMINO LADEIRA," Av. Brasil, nº 840", Mogi Moderno, (11) 4799-4551,74
+66, E.E. PROF. FIRMINO LADEIRA," Av. Brasil, nº 840", Mogi Moderno, (11) 4799-4551,74
+67, E.E. PROF. FIRMINO LADEIRA," Av. Brasil, nº 840", Mogi Moderno, (11) 4799-4551,74
+68, E.E. PROF. FIRMINO LADEIRA," Av. Brasil, nº 840", Mogi Moderno, (11) 4799-4551,74
+69, E.E. PROF. FIRMINO LADEIRA," Av. Brasil, nº 840", Mogi Moderno, (11) 4799-4551,74
+70, E.M. PROFª. CÉLIA PINHEIRO FRANCO," Av. Presidente Getulio Vargas,  nº 328", Mogi Moderno, (11) 4799-5275,74
+71, E.M. PROFª. CÉLIA PINHEIRO FRANCO," Av. Presidente Getulio Vargas,  nº 328", Mogi Moderno, (11) 4799-5275,74
+72, E.M. PROFª. CÉLIA PINHEIRO FRANCO," Av. Presidente Getulio Vargas,  nº 328", Mogi Moderno, (11) 4799-5275,74
+73, E.M. PROFª. CÉLIA PINHEIRO FRANCO," Av. Presidente Getulio Vargas,  nº 328", Mogi Moderno, (11) 4799-5275,74
+74, E.M. PROFª. CÉLIA PINHEIRO FRANCO," Av. Presidente Getulio Vargas,  nº 328", Mogi Moderno, (11) 4799-5275,74
+75, E.M. PROFª. CÉLIA PINHEIRO FRANCO," Av. Presidente Getulio Vargas,  nº 328", Mogi Moderno, (11) 4799-5275,74
+76, E.M. PROFª. CÉLIA PINHEIRO FRANCO," Av. Presidente Getulio Vargas,  nº 328", Mogi Moderno, (11) 4799-5275,74
+77, E.M. PROFª. CÉLIA PINHEIRO FRANCO," Av. Presidente Getulio Vargas,  nº 328", Mogi Moderno, (11) 4799-5275,74
+78, E.M. PROFª. MATHILDE PIRES C. MASCI," Av. Pres. Getulio Vargas,  nº 47", São João, (11) 4799-1694,74
+79, E.M. PROFª. MATHILDE PIRES C. MASCI," Av. Pres. Getulio Vargas,  nº 47", São João, (11) 4799-1694,74
+80, COLÉGIO GUTENBERG," R. Eugênio Motta,  nº 233", Centro, (11) 4795-9902,74
+81, COLÉGIO GUTENBERG," R. Eugênio Motta,  nº 233", Centro, (11) 4795-9902,74
+82, COLÉGIO GUTENBERG," R. Eugênio Motta,  nº 233", Centro, (11) 4795-9902,74
+83, COLÉGIO GUTENBERG," R. Eugênio Motta,  nº 233", Centro, (11) 4795-9902,74
+84, COLÉGIO GUTENBERG," R. Eugênio Motta,  nº 233", Centro, (11) 4795-9902,74
+85, COLÉGIO GUTENBERG," R. Eugênio Motta,  nº 233", Centro, (11) 4795-9902,74
+86, COLÉGIO GUTENBERG," R. Eugênio Motta,  nº 233", Centro, (11) 4795-9902,74
+87, CEEJA - Centro Estadual de Educação de Jovens e Adultos," Av. Governador Adhemar de Barros,  s/nº", Vila Rubens, (11) 4724-9120,74
+88, CEEJA - Centro Estadual de Educação de Jovens e Adultos," Av. Governador Adhemar de Barros,  s/nº", Vila Rubens, (11) 4724-9120,74
+89, CEEJA - Centro Estadual de Educação de Jovens e Adultos," Av. Governador Adhemar de Barros,  s/nº", Vila Rubens, (11) 4724-9120,74
+90, CEEJA - Centro Estadual de Educação de Jovens e Adultos," Av. Governador Adhemar de Barros,  s/nº", Vila Rubens, (11) 4724-9120,74
+91, CEEJA - Centro Estadual de Educação de Jovens e Adultos," Av. Governador Adhemar de Barros,  s/nº", Vila Rubens, (11) 4724-9120,74
+92, CEEJA - Centro Estadual de Educação de Jovens e Adultos," Av. Governador Adhemar de Barros,  s/nº", Vila Rubens, (11) 4724-9120,74
+93, CEEJA - Centro Estadual de Educação de Jovens e Adultos," Av. Governador Adhemar de Barros,  s/nº", Vila Rubens, (11) 4724-9120,74
+94, CEEJA - Centro Estadual de Educação de Jovens e Adultos," Av. Governador Adhemar de Barros,  s/nº", Vila Rubens, (11) 4724-9120,74
+95, CEEJA - Centro Estadual de Educação de Jovens e Adultos," Av. Governador Adhemar de Barros,  s/nº", Vila Rubens, (11) 4724-9120,74
+96, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+97, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+98, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+99, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+100, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+101, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+102, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+103, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+104, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+105, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+106, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+107, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+108, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+109, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+110, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+111,CEIM BENEDITO FERREIRA LOPES ,"R. Profª. Alice Thereza C. G. da Silva, nº 22 ",Vila Lavinia,(11) 4723-464 ,74
+112,CEIM BENEDITO FERREIRA LOPES ,"R. Profª. Alice Thereza C. G. da Silva, nº 22 ",Vila Lavinia,(11) 4723-464 ,74
+113,CEIM BENEDITO FERREIRA LOPES ,"R. Profª. Alice Thereza C. G. da Silva, nº 22 ",Vila Lavinia,(11) 4723-464 ,74
+114,CEIM BENEDITO FERREIRA LOPES ,"R. Profª. Alice Thereza C. G. da Silva, nº 22 ",Vila Lavinia,(11) 4723-464 ,74
+115,CEIM BENEDITO FERREIRA LOPES ,"R. Profª. Alice Thereza C. G. da Silva, nº 22 ",Vila Lavinia,(11) 4723-464 ,74
+116,CEIM BENEDITO FERREIRA LOPES ,"R. Profª. Alice Thereza C. G. da Silva, nº 22 ",Vila Lavinia,(11) 4723-464 ,74
+117, E.M. PROFª. MATHILDE PIRES C. MASCI," Av. Pres. Getulio Vargas,  nº 47", São João, (11) 4799-1694,74
+118, E.M. PROF. EULALIO GRUPPI," R. Ismael da Silva Melo, nº 559",Mogi Moderno, (11) 4796-5656,74
+119, E.E. PROF. ILSON GOMES," R. Isolina Bonise,  nº 111", Jardim. Ivete, (11) 4796-5509,74
+120, E.E. MAESTRO ANTONIO MÁRMORA FILHO," R. Dr. Jair Rocha Batalha,  s/nº", Caputera, (11) 4796-3312,74
+121,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+122,E.E. APRIGIO DE OLIVEIRA ,"R. Senador Dantas , nº 1000 ",Centro,(11) 4799-5225 ,74
+123, E.E. PROFª. ENEDINA GOMES DE FREITAS," R. Jugurta Lourival Glória, nº 62",Jardim Camila, (11) 4796-1428,74
+124, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+125,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+126,E.E. PROF. CAMILO FAUSTINO DE MELLO ,"R. Elisa Dasambiágio, nº 209 ",Socorro,(11) 4796-5250 ,74
+127, COLÉGIO GUTENBERG," R. Eugênio Motta,  nº 233", Centro, (11) 4795-9902,74
+128,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+129, E.M. PROF. EULALIO GRUPPI," R. Ismael da Silva Melo, nº 559",Mogi Moderno, (11) 4796-5657,74
+130, E.M. PROFª. MARIA COLOMBA C. RODRIGUES," R. Laurentino Alves dos Santos,  nº 188", Vila Natal, (11) 4796-0632,74
+131,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+132, E.M. PROFª. MATHILDE PIRES C. MASCI," Av. Pres. Getulio Vargas,  nº 47", São João, (11) 4799-1694,74
+133, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+134, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+135,E.E. PROF. CAMILO FAUSTINO DE MELLO ,"R. Elisa Dasambiágio, nº 209 ",Socorro,(11) 4796-5250 ,74
+136, E.M. PROF. EULALIO GRUPPI," R. Ismael da Silva Melo, nº 559",Mogi Moderno, (11) 4796-5658,74
+137,E.M. PROF. RODOLPHO MEHLMANN ,"R. dos Vicentinos, nº 1215 ",Vila Natal,(11) 4725-1985 ,74
+138, CEEJA - Centro Estadual de Educação de Jovens e Adultos," Av. Governador Adhemar de Barros,  s/nº", Vila Rubens, (11) 4724-9120,74
+139, E.E. PROFª. ENEDINA GOMES DE FREITAS," R. Jugurta Lourival Glória, nº 62",Jardim Camila, (11) 4796-1428,74
+140, E.E. PROF. ILSON GOMES," R. Isolina Bonise,  nº 111", Jardim. Ivete, (11) 4796-5509,74
+141, E.M. BENEDITO FERREIRA LOPES," R. Profª. Alice Thereza C. G. da Silva,  nº 22 P EF1", Vila Lavinia, (11) 4723-4630,74
+142, E.M. PROFª. MARIA COLOMBA C. RODRIGUES," R. Laurentino Alves dos Santos,  nº 188", Vila Natal, (11) 4796-0633,74
+143, E.M. ANTONIO NACIF SALEMI," R. Maria Osório do Vale,  nº 271", Alto Ipiranga, (11) 4724-1791,74
+144, E.M. ANTONIO NACIF SALEMI," R. Maria Osório do Vale,  nº 271", Alto Ipiranga, (11) 4724-1791,74
+145, E.M. BENEDITO FERREIRA LOPES," R. Profª. Alice Thereza C. G. da Silva,  nº 22 P EF1", Vila Lavinia, (11) 4723-4630,74
+146, E.M. PROFª. MARIA COLOMBA C. RODRIGUES," R. Laurentino Alves dos Santos,  nº 188", Vila Natal, (11) 4796-0634,74
+147, E.E. PROFª. ENEDINA GOMES DE FREITAS," R. Jugurta Lourival Glória, nº 62",Jardim Camila, (11) 4796-1428,74
+148,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+149, E.E. PROF. ILSON GOMES," R. Isolina Bonise,  nº 111", Jardim. Ivete, (11) 4796-5509,74
+150, E.M. ANTONIO NACIF SALEMI," R. Maria Osório do Vale,  nº 271", Alto Ipiranga, (11) 4724-1791,74
+151, E.M. BENEDITO FERREIRA LOPES," R. Profª. Alice Thereza C. G. da Silva,  nº 22 P EF1", Vila Lavinia, (11) 4723-4630,74
+152,E.E. VER. NARCISO YAGUE GUIMARÃES ,"R. Desidério Jorge , s/nº ",Vila Natal,(11) 4796-2783,74
+153, E.M. BENEDITO FERREIRA LOPES," R. Profª. Alice Thereza C. G. da Silva,  nº 22 P EF1", Vila Lavinia, (11) 4723-4630,74
+154,E.E. PROF. CAMILO FAUSTINO DE MELLO ,"R. Elisa Dasambiágio, nº 209 ",Socorro,(11) 4796-5250 ,74
+155, E.M. PROF. EULALIO GRUPPI," R. Ismael da Silva Melo, nº 559",Mogi Moderno, (11) 4796-5659,74
+156,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+157,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+158, E.M. PROFª. CÉLIA PINHEIRO FRANCO," Av. Presidente Getulio Vargas,  nº 328", Mogi Moderno, (11) 4799-5275,74
+159, E.E. PROFª. ENEDINA GOMES DE FREITAS," R. Jugurta Lourival Glória, nº 62",Jardim Camila, (11) 4796-1428,74
+160,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+161, E.E. PROF. ILSON GOMES," R. Isolina Bonise,  nº 111", Jardim. Ivete, (11) 4796-5509,74
+162, CEEJA - Centro Estadual de Educação de Jovens e Adultos," Av. Governador Adhemar de Barros,  s/nº", Vila Rubens, (11) 4724-9120,74
+163, COLÉGIO GUTENBERG," R. Eugênio Motta,  nº 233", Centro, (11) 4795-9902,74
+164,E.E. VER. NARCISO YAGUE GUIMARÃES ,"R. Desidério Jorge , s/nº ",Vila Natal,(11) 4796-2784,74
+165,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+166, E.M. ANTONIO NACIF SALEMI," R. Maria Osório do Vale,  nº 271", Alto Ipiranga, (11) 4724-1791,74
+167, E.E. MAESTRO ANTONIO MÁRMORA FILHO," R. Dr. Jair Rocha Batalha,  s/nº", Caputera, (11) 4796-3312,74
+168, E.M. PROFª. MARIA COLOMBA C. RODRIGUES," R. Laurentino Alves dos Santos,  nº 188", Vila Natal, (11) 4796-0635,74
+169, E.M. BENEDITO FERREIRA LOPES," R. Profª. Alice Thereza C. G. da Silva,  nº 22 P EF1", Vila Lavinia, (11) 4723-4630,74
+170, E.M. PROFª. ANA LUCIA FERREIRA DE SOUZA," R. Elias Nobre,  nº 81", Vila Rachel, (11) 4726-5697,74
+171,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+172, E.M. BENEDITO FERREIRA LOPES," R. Profª. Alice Thereza C. G. da Silva,  nº 22 P EF1", Vila Lavinia, (11) 4723-4630,74
+173, E.M. PROFª. MATHILDE PIRES C. MASCI," Av. Pres. Getulio Vargas,  nº 47", São João, (11) 4799-1694,74
+174,E.E. VER. NARCISO YAGUE GUIMARÃES ,"R. Desidério Jorge , s/nº ",Vila Natal,(11) 4796-2785,74
+175, E.E. PROFª. ADELAIDE MARIA DE BARROS," Av. Engenheiro Miguel Gemma, s/nº",Conjunto Toyama, (11) 4799-2383,74
+176, CEEJA - Centro Estadual de Educação de Jovens e Adultos," Av. Governador Adhemar de Barros,  s/nº", Vila Rubens, (11) 4724-9120,74
+177,E.E. PROF. CAMILO FAUSTINO DE MELLO ,"R. Elisa Dasambiágio, nº 209 ",Socorro,(11) 4796-5250 ,74
+178,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+179, E.M. BENEDITO FERREIRA LOPES," R. Profª. Alice Thereza C. G. da Silva,  nº 22 P EF1", Vila Lavinia, (11) 4723-4630,74
+180, COLÉGIO GUTENBERG," R. Eugênio Motta,  nº 233", Centro, (11) 4795-9902,74
+181, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+182, COLÉGIO SABER," Av. Francisco Assis M. de Castro,  nº 707", Vila Oliveira, (11) 4796-2459,74
+183, COLÉGIO GUTENBERG," R. Eugênio Motta,  nº 233", Centro, (11) 4795-9902,74
+184, E.M. PROFª. CÉLIA PINHEIRO FRANCO," Av. Presidente Getulio Vargas,  nº 328", Mogi Moderno, (11) 4799-5275,74
+185, E.E. PROF. ILSON GOMES," R. Isolina Bonise,  nº 111", Jardim. Ivete, (11) 4796-5509,74
+186, E.M. PROF. EULALIO GRUPPI," R. Ismael da Silva Melo, nº 559",Mogi Moderno, (11) 4796-5660,74
+187, E.M. ANTONIO NACIF SALEMI," R. Maria Osório do Vale,  nº 271", Alto Ipiranga, (11) 4724-1791,74
+188,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+189,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+190, E.E. PROF. ILSON GOMES," R. Isolina Bonise,  nº 111", Jardim. Ivete, (11) 4796-5509,74
+191, COLÉGIO SABER," Av. Francisco Assis M. de Castro,  nº 707", Vila Oliveira, (11) 4796-2459,74
+192, E.E. MAESTRO ANTONIO MÁRMORA FILHO," R. Dr. Jair Rocha Batalha,  s/nº", Caputera, (11) 4796-3312,74
+193,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+194, E.M. ANTONIO NACIF SALEMI," R. Maria Osório do Vale,  nº 271", Alto Ipiranga, (11) 4724-1791,74
+195, CEMPRE BENEDITO FERREIRA LOPES," R. Profª. Alice Thereza C. G. da Silva,  s/nº", Vila Lavinia, (11) 4723-4630,74
+196, E.M. PROF. EULALIO GRUPPI," R. Ismael da Silva Melo, nº 559",Mogi Moderno, (11) 4796-5661,74
+197, COLÉGIO GUTENBERG," R. Eugênio Motta,  nº 233", Centro, (11) 4795-9902,74
+198, E.M. PROFª. MARIA COLOMBA C. RODRIGUES," R. Laurentino Alves dos Santos,  nº 188", Vila Natal, (11) 4796-0636,74
+199,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+200,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+201,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+202, COLÉGIO GUTENBERG," R. Eugênio Motta,  nº 233", Centro, (11) 4795-9902,74
+203, E.E. PROF. ILSON GOMES," R. Isolina Bonise,  nº 111", Jardim. Ivete, (11) 4796-5509,74
+204, E.E. MAESTRO ANTONIO MÁRMORA FILHO," R. Dr. Jair Rocha Batalha,  s/nº", Caputera, (11) 4796-3312,74
+205, E.E. PROFª. ADELAIDE MARIA DE BARROS," Av. Engenheiro Miguel Gemma, s/nº",Conjunto Toyama, (11) 4799-2383,74
+206, E.M. PROFª. ANA LUCIA FERREIRA DE SOUZA," R. Elias Nobre,  nº 81", Vila Rachel, (11) 4726-5697,74
+207, E.M. BENEDITO FERREIRA LOPES," R. Profª. Alice Thereza C. G. da Silva,  nº 22 P EF1", Vila Lavinia, (11) 4723-4630,74
+208, E.E. PROFª. ENEDINA GOMES DE FREITAS," R. Jugurta Lourival Glória, nº 62",Jardim Camila, (11) 4796-1428,74
+209, E.E. PROF. FIRMINO LADEIRA," Av. Brasil, nº 840", Mogi Moderno, (11) 4799-4551,74
+210, E.M. PROFª. CÉLIA PINHEIRO FRANCO," Av. Presidente Getulio Vargas,  nº 328", Mogi Moderno, (11) 4799-5275,74
+211, E.M. PROF. EULALIO GRUPPI," R. Ismael da Silva Melo, nº 559",Mogi Moderno, (11) 4796-5662,74
+212, E.M. PROFª. MARIA COLOMBA C. RODRIGUES," R. Laurentino Alves dos Santos,  nº 188", Vila Natal, (11) 4796-0637,74
+213, COLÉGIO SABER," Av. Francisco Assis M. de Castro,  nº 707", Vila Oliveira, (11) 4796-2459,74
+214, E.E. PROF. FIRMINO LADEIRA," Av. Brasil, nº 840", Mogi Moderno, (11) 4799-4551,74
+215, E.E. PROF. ILSON GOMES," R. Isolina Bonise,  nº 111", Jardim. Ivete, (11) 4796-5509,74
+216,E.E. VER. NARCISO YAGUE GUIMARÃES ,"R. Desidério Jorge , s/nº ",Vila Natal,(11) 4796-2786,74
+217, E.E. PROFª. ENEDINA GOMES DE FREITAS," R. Jugurta Lourival Glória, nº 62",Jardim Camila, (11) 4796-1428,74
+218,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+219, CEMPRE BENEDITO FERREIRA LOPES," R. Profª. Alice Thereza C. G. da Silva,  s/nº", Vila Lavinia, (11) 4723-4630,74
+220, E.M. PROFª. CÉLIA PINHEIRO FRANCO," Av. Presidente Getulio Vargas,  nº 328", Mogi Moderno, (11) 4799-5275,74
+221, COLÉGIO SABER," Av. Francisco Assis M. de Castro,  nº 707", Vila Oliveira, (11) 4796-2459,74
+222, E.E. PROFª. ADELAIDE MARIA DE BARROS," Av. Engenheiro Miguel Gemma, s/nº",Conjunto Toyama, (11) 4799-2383,74
+223,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+224,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+225, E.E. PROF. ILSON GOMES," R. Isolina Bonise,  nº 111", Jardim. Ivete, (11) 4796-5509,74
+226, CEMPRE BENEDITO FERREIRA LOPES," R. Profª. Alice Thereza C. G. da Silva,  s/nº", Vila Lavinia, (11) 4723-4630,74
+227, E.E. PROF. FIRMINO LADEIRA," Av. Brasil, nº 840", Mogi Moderno, (11) 4799-4551,74
+228, E.M. PROFª. ANA LUCIA FERREIRA DE SOUZA," R. Elias Nobre,  nº 81", Vila Rachel, (11) 4726-5697,74
+229, E.E. MAESTRO ANTONIO MÁRMORA FILHO," R. Dr. Jair Rocha Batalha,  s/nº", Caputera, (11) 4796-3312,74
+230,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+231, COLÉGIO SABER," Av. Francisco Assis M. de Castro,  nº 707", Vila Oliveira, (11) 4796-2459,74
+232, E.M. PROFª. CÉLIA PINHEIRO FRANCO," Av. Presidente Getulio Vargas,  nº 328", Mogi Moderno, (11) 4799-5275,74
+233, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+234, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+235, COLÉGIO GUTENBERG," R. Eugênio Motta,  nº 233", Centro, (11) 4795-9902,74
+236, CEMPRE BENEDITO FERREIRA LOPES," R. Profª. Alice Thereza C. G. da Silva,  s/nº", Vila Lavinia, (11) 4723-4630,74
+237,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+238,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+239, E.M. PROFª. MATHILDE PIRES C. MASCI," Av. Pres. Getulio Vargas,  nº 47", São João, (11) 4799-1694,74
+240, E.E. PROF. ILSON GOMES," R. Isolina Bonise,  nº 111", Jardim. Ivete, (11) 4796-5509,74
+241, CEMPRE BENEDITO FERREIRA LOPES," R. Profª. Alice Thereza C. G. da Silva,  s/nº", Vila Lavinia, (11) 4723-4630,74
+242, E.E. PROF. FIRMINO LADEIRA," Av. Brasil, nº 840", Mogi Moderno, (11) 4799-4551,74
+243, COLÉGIO GUTENBERG," R. Eugênio Motta,  nº 233", Centro, (11) 4795-9902,74
+244,E.E. VER. NARCISO YAGUE GUIMARÃES ,"R. Desidério Jorge , s/nº ",Vila Natal,(11) 4796-2787,74
+245,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+246,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+247, E.E. PROF. ILSON GOMES," R. Isolina Bonise,  nº 111", Jardim. Ivete, (11) 4796-5509,74
+248, COLÉGIO GUTENBERG," R. Eugênio Motta,  nº 233", Centro, (11) 4795-9902,74
+249, E.M. PROF. EULALIO GRUPPI," R. Ismael da Silva Melo, nº 559",Mogi Moderno, (11) 4796-5663,74
+250, E.M. PROFª. ANA LUCIA FERREIRA DE SOUZA," R. Elias Nobre,  nº 81", Vila Rachel, (11) 4726-5697,74
+251, CEMPRE BENEDITO FERREIRA LOPES," R. Profª. Alice Thereza C. G. da Silva,  s/nº", Vila Lavinia, (11) 4723-4630,74
+252, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+253, COLÉGIO SABER," Av. Francisco Assis M. de Castro,  nº 707", Vila Oliveira, (11) 4796-2459,74
+254, E.M. PROFª. MARIA JOSE TENORIO DE A. SILVA," Av. José Glicério de Mello, 1462", Jardim Camila, (11) 4726-6146,74
+255, E.M. PROFª. IVETE CHUERY VIEIRA T. VICCO," R. Kikutaro Suzuki,  s/nº", Jardim Ivete, (11) 4738-1515,74
+256, E.E. PROFª. IRENE CAPORALI DE SOUZA," R. Dr. Jair Rocha Batalha,  s/nº", Caputera, (11) 4798-2740,74
+257, COLÉGIO GUTENBERG," R. Eugênio Motta,  nº 233", Centro, (11) 4795-9902,74
+258, E.M. PROFª. MARIA JOSE TENORIO DE A. SILVA," Av. José Glicério de Mello, 1462", Jardim Camila, (11) 4726-6146,74
+259, E.E. PROFª. IRENE CAPORALI DE SOUZA," R. Dr. Jair Rocha Batalha,  s/nº", Caputera, (11) 4798-2740,74
+260, E.M. PROFª. IVETE CHUERY VIEIRA T. VICCO," R. Kikutaro Suzuki,  s/nº", Jardim Ivete, (11) 4738-1515,74
+261, COLÉGIO GUTENBERG," R. Eugênio Motta,  nº 233", Centro, (11) 4795-9902,74
+262, E.M. ANTONIO NACIF SALEMI," R. Maria Osório do Vale,  nº 271", Alto Ipiranga, (11) 4724-1791,74
+263, E.M. ANTONIO NACIF SALEMI," R. Maria Osório do Vale,  nº 271", Alto Ipiranga, (11) 4724-1791,74
+264,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+265, E.E. PROFª. ADELAIDE MARIA DE BARROS," Av. Engenheiro Miguel Gemma, s/nº",Conjunto Toyama, (11) 4799-2383,74
+266, E.M. ANTONIO NACIF SALEMI," R. Maria Osório do Vale,  nº 271", Alto Ipiranga, (11) 4724-1791,74
+267, E.M. ANTONIO NACIF SALEMI," R. Maria Osório do Vale,  nº 271", Alto Ipiranga, (11) 4724-1791,74
+268, COLÉGIO SABER," Av. Francisco Assis M. de Castro,  nº 707", Vila Oliveira, (11) 4796-2459,74
+269,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+270, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+271, E.M. PROFª. MARIA JOSE TENORIO DE A. SILVA," Av. José Glicério de Mello, 1462", Jardim Camila, (11) 4726-6146,74
+272,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+273,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+274, E.M. PROFª. IVETE CHUERY VIEIRA T. VICCO," R. Kikutaro Suzuki,  s/nº", Jardim Ivete, (11) 4738-1515,74
+275, E.E. PROFª. IRENE CAPORALI DE SOUZA," R. Dr. Jair Rocha Batalha,  s/nº", Caputera, (11) 4798-2740,74
+276,E.E. APRÍGIO DE OLIVEIRA ,"R. Senador Dantas , nº 1000",Centro ,(11) 4799-5225 ,74
+277, COLÉGIO SABER," Av. Francisco Assis M. de Castro,  nº 707", Vila Oliveira, (11) 4796-2459,74
+278, E.M. PROFª. HELIANA MAFRA MACHADO DE CASTRO," R. Tomaz Dominguez, nº 210", Parque Santana, (11) 4727-6633,74
+279,E.E. APRIGIO DE OLIVEIRA ,"R. Senador Dantas , nº 1000 ",Centro,(11) 4799-5225 ,74
+279, E.M. PROFª. HELIANA MAFRA MACHADO DE CASTRO," R. Tomaz Dominguez, nº 210", Parque Santana, (11) 4727-6633,74
+280, E.E. PROFª. ENEDINA GOMES DE FREITAS," R. Jugurta Lourival Glória, nº 62",Jardim Camila, (11) 4796-1428,74
+281, CEMPRE BENEDITO FERREIRA LOPES," R. Profª. Alice Thereza C. G. da Silva,  s/nº", Vila Lavinia, (11) 4723-4630,74
+282,E.E. VER. NARCISO YAGUE GUIMARÃES ,"R. Desidério Jorge , s/nº ",Vila Natal,(11) 4796-2788,74
+283, E.M. PROFª. MARIA JOSE TENORIO DE A. SILVA," Av. José Glicério de Mello, 1462", Jardim Camila, (11) 4726-6146,74
+284, E.M. PROF. EULALIO GRUPPI," R. Ismael da Silva Melo, nº 559",Mogi Moderno, (11) 4796-5664,74
+285, E.E. PEDRO MALOZZE," Av. Maria Osório do Valle, nº 650", Alto Ipiranga, (11) 4727-5400,74
+287,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+288, E.M. PROFª. IVETE CHUERY VIEIRA T. VICCO," R. Kikutaro Suzuki,  s/nº", Jardim Ivete, (11) 4738-1515,74
+289,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+290, E.E. PROFª. IRENE CAPORALI DE SOUZA," R. Dr. Jair Rocha Batalha,  s/nº", Caputera, (11) 4798-2740,74
+291,E.E. DR. WASHINGTON LUIS ,"R. Dom Antonio Candido Alvarenga , n 511 ",Centro,(11) 4799-3699 ,74
+292, COLÉGIO SABER," Av. Francisco Assis M. de Castro,  nº 707", Vila Oliveira, (11) 4796-2459,74
+293, E.M. PROFª. ANA LUCIA FERREIRA DE SOUZA," R. Elias Nobre,  nº 81", Vila Rachel, (11) 4726-5697,74
+294, E.M. PROFª. HELIANA MAFRA MACHADO DE CASTRO," R. Tomaz Dominguez, nº 210", Parque Santana, (11) 4727-6633,74
+295, E.M. PROFª. IVETE CHUERY VIEIRA T. VICCO," R. Kikutaro Suzuki,  s/nº", Jardim Ivete, (11) 4738-1515,74
+296, E.M. PROF. DEMERVAL AROUCA," R. Jaime Ângelo Nogueira,  nº 30", Jardim Ivete, (11) 4724-9906,74
+297, E.M. ANTONIO NACIF SALEMI," R. Maria Osório do Vale,  nº 271", Alto Ipiranga, (11) 4724-1791,74
+298,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+299,E.E. VER. NARCISO YAGUE GUIMARÃES ,"R. Desidério Jorge , s/nº ",Vila Natal,(11) 4796-2789,74
+301, E.E. PROFª. IRENE CAPORALI DE SOUZA," R. Dr. Jair Rocha Batalha,  s/nº", Caputera, (11) 4798-2740,74
+302, E.E. PROFª. ADELAIDE MARIA DE BARROS," Av. Engenheiro Miguel Gemma, s/nº",Conjunto Toyama, (11) 4799-2383,74
+303, E.M. PROF. DEMERVAL AROUCA," R. Jaime Ângelo Nogueira,  nº 30", Jardim Ivete, (11) 4724-9906,74
+304, E.M. PROFª. HELIANA MAFRA MACHADO DE CASTRO," R. Tomaz Dominguez, nº 210", Parque Santana, (11) 4727-6633,74
+305, E.M. PROF. DEMERVAL AROUCA," R. Jaime Ângelo Nogueira,  nº 30", Jardim Ivete, (11) 4724-9906,74
+306, E.M. PROFª. ANA LUCIA FERREIRA DE SOUZA," R. Elias Nobre,  nº 81", Vila Rachel, (11) 4726-5697,74
+307, E.M. PROF. DEMERVAL AROUCA," R. Jaime Ângelo Nogueira,  nº 30", Jardim Ivete, (11) 4724-9906,74
+308, E.M. ANTONIO NACIF SALEMI," R. Maria Osório do Vale,  nº 271", Alto Ipiranga, (11) 4724-1791,74
+309,UNIVERSIDADE DE MOGI DAS CRUZES ,"Av. Candido Xavier Almeida e Souza , nº 200",Centro,(11) 4798-7000 ,74
+310, E.M. PROFª. MARIA JOSE TENORIO DE A. SILVA," Av. José Glicério de Mello, 1462", Jardim Camila, (11) 4726-6146,74
+311, CEMPRE BENEDITO FERREIRA LOPES," R. Profª. Alice Thereza C. G. da Silva,  s/nº", Vila Lavinia, (11) 4723-4630,74
+1, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+2, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+3, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+4, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+5, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+6, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+7, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+8, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+9, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+10, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+11, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+12, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+13, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+14, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6900,287
+15, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6901,287
+16, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6902,287
+17, E.E. Dr. Claudio Abrahão," R. Dr. João Antônio R. de Moraes, 100", Vila Jundiaí,(11) 4727-3160,287
+18, E.E. Dr. Claudio Abrahão," R. Dr. João Antônio R. de Moraes, 100", Vila Jundiaí,(11) 4727-3160,287
+19, E.E. Dr. Claudio Abrahão," R. Dr. João Antônio R. de Moraes, 100", Vila Jundiaí,(11) 4727-3160,287
+20, E.E. Dr. Claudio Abrahão," R. Dr. João Antônio R. de Moraes, 100", Vila Jundiaí,(11) 4727-3160,287
+21, E.E. Dr. Claudio Abrahão," R. Dr. João Antônio R. de Moraes, 100", Vila Jundiaí,(11) 4727-3160,287
+22, E.E. Dr. Claudio Abrahão," R. Dr. João Antônio R. de Moraes, 100", Vila Jundiaí,(11) 4727-3160,287
+23, E.E. Profª. Helena Urbano Nagib," R. Paulo Leite de Siqueira,  578",Jardim Modelo,(11) 4727-3866,287
+24, E.E. Profª. Helena Urbano Nagib," R. Paulo Leite de Siqueira,  579",Jardim Modelo,(11) 4727-3866,287
+25, E.E. Profª. Helena Urbano Nagib," R. Paulo Leite de Siqueira,  580",Jardim Modelo,(11) 4727-3866,287
+26, E.E. Profª. Helena Urbano Nagib," R. Paulo Leite de Siqueira,  581",Jardim Modelo,(11) 4727-3866,287
+27, E.E. Profª. Helena Urbano Nagib," R. Paulo Leite de Siqueira,  582",Jardim Modelo,(11) 4727-3866,287
+28, E.E. Profª. Helena Urbano Nagib," R. Paulo Leite de Siqueira,  583",Jardim Modelo,(11) 4727-3866,287
+29, E.E. Profª. Laurinda Cardoso Melo Freire," R. Felipe Camarão , 221", Jardim Universo, (11) 4721-6103,287
+30, E.E. Profª. Laurinda Cardoso Melo Freire," R. Felipe Camarão , 221", Jardim Universo, (11) 4721-6103,287
+31, E.E. Profª. Laurinda Cardoso Melo Freire," R. Felipe Camarão , 221", Jardim Universo, (11) 4721-6103,287
+32, E.E. Profª. Laurinda Cardoso Melo Freire," R. Felipe Camarão , 221", Jardim Universo, (11) 4721-6103,287
+33, E.E. Profª. Laurinda Cardoso Melo Freire," R. Felipe Camarão , 221", Jardim Universo, (11) 4721-6103,287
+34, E.E. Profª. Laurinda Cardoso Melo Freire," R. Felipe Camarão , 221", Jardim Universo, (11) 4721-6103,287
+35, E.E. Profª. Laurinda Cardoso Melo Freire," R. Felipe Camarão , 221", Jardim Universo, (11) 4721-6103,287
+36, E.E. Profª. Laurinda Cardoso Melo Freire," R. Felipe Camarão , 221", Jardim Universo, (11) 4721-6103,287
+37, E.E. Profª. Laurinda Cardoso Melo Freire," R. Felipe Camarão , 221", Jardim Universo, (11) 4721-6103,287
+38, E.E. Profª. Laurinda Cardoso Melo Freire," R. Felipe Camarão , 221", Jardim Universo, (11) 4721-6103,287
+39, E.E. Profª. Laurinda Cardoso Melo Freire," R. Felipe Camarão , 221", Jardim Universo, (11) 4721-6103,287
+40, E.E. Profª. Laurinda Cardoso Melo Freire," R. Felipe Camarão , 221", Jardim Universo, (11) 4721-6103,287
+41, E.E. Frei Thimoteo Van Den Broeck," R. Maria Diana F. Marmora,  s/n",Jardim Esperança,(11) 4727-1701,287
+42, E.E. Frei Thimoteo Van Den Broeck," R. Maria Diana F. Marmora,  s/n",Jardim Esperança,(11) 4727-1701,287
+43, E.E. Frei Thimoteo Van Den Broeck," R. Maria Diana F. Marmora,  s/n",Jardim Esperança,(11) 4727-1701,287
+44, E.E. Frei Thimoteo Van Den Broeck," R. Maria Diana F. Marmora,  s/n",Jardim Esperança,(11) 4727-1701,287
+45, E.E. Frei Thimoteo Van Den Broeck," R. Maria Diana F. Marmora,  s/n",Jardim Esperança,(11) 4727-1701,287
+46, E.E. Prof. Paulo Ferrari Massaro," R. Alexandre Andreotti , 400", Jundiapeba, (11) 4721-6109,287
+47, E.E. Prof. Paulo Ferrari Massaro," R. Alexandre Andreotti , 400", Jundiapeba, (11) 4721-6109,287
+48, E.E. Prof. Paulo Ferrari Massaro," R. Alexandre Andreotti , 400", Jundiapeba, (11) 4721-6109,287
+49, E.E. Prof. Paulo Ferrari Massaro," R. Alexandre Andreotti , 400", Jundiapeba, (11) 4721-6109,287
+50, E.E. Prof. Paulo Ferrari Massaro," R. Alexandre Andreotti , 400", Jundiapeba, (11) 4721-6109,287
+51, E.E. Prof. Paulo Ferrari Massaro," R. Alexandre Andreotti , 400", Jundiapeba, (11) 4721-6109,287
+52, E.E. Prof. Paulo Ferrari Massaro," R. Alexandre Andreotti , 400", Jundiapeba, (11) 4721-6109,287
+53, E.E. Prof. Paulo Ferrari Massaro," R. Alexandre Andreotti , 400", Jundiapeba, (11) 4721-6109,287
+54, E.E. Profª. Maria Isabel dos Santos Mello," Av. Presidente Altino Arantes , 100", Jundiapeba, (11) 4727-4350,287
+55, E.E. Profª. Maria Isabel dos Santos Mello," Av. Presidente Altino Arantes , 100", Jundiapeba, (11) 4727-4350,287
+56, E.E. Profª. Maria Isabel dos Santos Mello," Av. Presidente Altino Arantes , 100", Jundiapeba, (11) 4727-4350,287
+57, E.E. Profª. Maria Isabel dos Santos Mello," Av. Presidente Altino Arantes , 100", Jundiapeba, (11) 4727-4350,287
+58, E.E. Profª. Maria Isabel dos Santos Mello," Av. Presidente Altino Arantes , 100", Jundiapeba, (11) 4727-4350,287
+59, E.E. Profª. Josephina Najar Hernandez," R. Pedro Paulo dos Santos , 2475", Jundiapeba, (11) 4727-3649,287
+60, E.E. Profª. Josephina Najar Hernandez," R. Pedro Paulo dos Santos , 2475", Jundiapeba, (11) 4727-3649,287
+61, E.E. Profª. Josephina Najar Hernandez," R. Pedro Paulo dos Santos , 2475", Jundiapeba, (11) 4727-3649,287
+62, E.E. Profª. Lucinda Bastos," R. São Jorge , 50", Cj. Residencial Santo Ângelo, (11) 4727-1922,287
+63, E.E. Profª. Lucinda Bastos," R. São Jorge , 50", Cj. Residencial Santo Ângelo, (11) 4727-1922,287
+64, E.E. Profª. Lucinda Bastos," R. São Jorge , 50", Cj. Residencial Santo Ângelo, (11) 4727-1922,287
+65, E.E. Profª. Lucinda Bastos," R. São Jorge , 50", Cj. Residencial Santo Ângelo, (11) 4727-1922,287
+66, CER Dr. Arnaldo Pezzuti Cavalcanti," Rod. Eng. Cândido do R. Chaves,  s/nº",Quatinga,(11) 4723-9800,287
+67, E.M. Prof. Adolfo Martini (Sesi 113)," R. Rômulo de Brito, 281", Jardim Santa Carolina, (11) 4791-3679,287
+68, E.M. Prof. Adolfo Martini (Sesi 113)," R. Rômulo de Brito, 281", Jardim Santa Carolina, (11) 4791-3679,287
+69, E.M. Prof. Adolfo Martini (Sesi 113)," R. Rômulo de Brito, 281", Jardim Santa Carolina, (11) 4791-3679,287
+70, E.E. Leonor de Oliveira Mello," R. Joaquina Maria de Jesus , 641", Vila Mogilar, (11) 4790-1922,287
+71, E.E. Leonor de Oliveira Mello," R. Joaquina Maria de Jesus , 641", Vila Mogilar, (11) 4790-1922,287
+72, E.E. Leonor de Oliveira Mello," R. Joaquina Maria de Jesus , 641", Vila Mogilar, (11) 4790-1922,287
+73, E.E. Leonor de Oliveira Mello," R. Joaquina Maria de Jesus , 641", Vila Mogilar, (11) 4790-1922,287
+74, E.E. Leonor de Oliveira Mello," R. Joaquina Maria de Jesus , 641", Vila Mogilar, (11) 4790-1922,287
+75, E.E. Leonor de Oliveira Mello," R. Joaquina Maria de Jesus , 641", Vila Mogilar, (11) 4790-1922,287
+76, E.E. Francisco Ferreira Lopes," R. Dr. Deodato Wertheimer, 426",Vila Mogilar,(11) 4790-3914,287
+77, E.E. Francisco Ferreira Lopes," R. Dr. Deodato Wertheimer, 426",Vila Mogilar,(11) 4790-3914,287
+78, E.E. Francisco Ferreira Lopes," R. Dr. Deodato Wertheimer, 426",Vila Mogilar,(11) 4790-3914,287
+79, E.E. Francisco Ferreira Lopes," R. Dr. Deodato Wertheimer, 426",Vila Mogilar,(11) 4790-3914,287
+80, E.E. Francisco Ferreira Lopes," R. Dr. Deodato Wertheimer, 426",Vila Mogilar,(11) 4790-3914,287
+81, E.E. Dr. Deodato Wertheimer," R. Engenheiro Gualberto, nº 1516",Centro,(11) 4791-2300,287
+82, E.E. Dr. Deodato Wertheimer," R. Engenheiro Gualberto, nº 1516",Centro,(11) 4791-2300,287
+83, E.E. Dr. Deodato Wertheimer," R. Engenheiro Gualberto, nº 1516",Centro,(11) 4791-2300,287
+84, E.E. Dr. Deodato Wertheimer," R. Engenheiro Gualberto, nº 1516",Centro,(11) 4791-2300,287
+85, E.E. Dr. Deodato Wertheimer," R. Engenheiro Gualberto, nº 1516",Centro,(11) 4791-2300,287
+86, E.E. Dr. Deodato Wertheimer," R. Engenheiro Gualberto, nº 1516",Centro,(11) 4791-2300,287
+87, E.E. Dr. Deodato Wertheimer," R. Engenheiro Gualberto, nº 1516",Centro,(11) 4791-2300,287
+88, E.E. Dr. Deodato Wertheimer," R. Engenheiro Gualberto, nº 1516",Centro,(11) 4791-2300,287
+89, E.E. Dr. Arlindo Aquino de Oliveira," Est. Prof. Walter Ferraz (Mogi-Taiaçupeba), s/nº",Taiaçupeba , (11) 4792-2611,287
+90, E.E. Dr. Arlindo Aquino de Oliveira," Est. Prof. Walter Ferraz (Mogi-Taiaçupeba), s/nº",Taiaçupeba , (11) 4792-2611,287
+91, E.E. Prof. Benedito Borges Vieira," Rod. Francisco Ribeiro Nogueira (Mogi-Bertioga), s/nº",Taiaçupeba ,(11) 4796-2833,287
+92, E.E. Prof. Benedito Borges Vieira," Rod. Francisco Ribeiro Nogueira (Mogi-Bertioga), s/nº",Taiaçupeba ,(11) 4796-2834,287
+93, E.E. Prof. Benedito Borges Vieira," Rod. Francisco Ribeiro Nogueira (Mogi-Bertioga), s/nº",Taiaçupeba ,(11) 4796-2835,287
+94, E.E. Comendador Koheiji Adachi," Estrada Etsunari Adachi, nº 100", Jardim Santos Dumont I, (11) 4721-1854,287
+95, E.E. Comendador Koheiji Adachi," Estrada Etsunari Adachi, nº 100", Jardim Santos Dumont I, (11) 4721-1854,287
+96, E.E. Gabriel Pereira," R. Jother S. Pinto, 38",Cj. Hab. Brás Cubas ,(11) 4796-3581,287
+97, E.E. Gabriel Pereira," R. Jother S. Pinto, 38",Cj. Hab. Brás Cubas ,(11) 4796-3581,287
+98, E.E. Gabriel Pereira," R. Jother S. Pinto, 38",Cj. Hab. Brás Cubas ,(11) 4796-3581,287
+99, E.E. Gabriel Pereira," R. Jother S. Pinto, 38",Cj. Hab. Brás Cubas ,(11) 4796-3581,287
+100, E.E. Gabriel Pereira," R. Jother S. Pinto, 38",Cj. Hab. Brás Cubas ,(11) 4796-3581,287
+101, E.E. Gabriel Pereira," R. Jother S. Pinto, 38",Cj. Hab. Brás Cubas ,(11) 4796-3581,287
+102, E.E. Prof. João Cardoso dos Santos," R. Thiago Silvestre Furtado , s/n", Biritiba Ussu, (11) 4792-1188,287
+103, E.E. Prof. João Cardoso dos Santos," R. Thiago Silvestre Furtado , s/n", Biritiba Ussu, (11) 4792-1188,287
+104, E.E. Prof. João Cardoso dos Santos," R. Thiago Silvestre Furtado , s/n", Biritiba Ussu, (11) 4792-1188,287
+105, E.E. Prof. João Cardoso dos Santos," R. Thiago Silvestre Furtado , s/n", Biritiba Ussu, (11) 4792-1188,287
+106, E.E. Benedito de Souza Lima," R. Guararema, 138",Taiaçupeba ,(11) 4724-0416,287
+107, E.E. Benedito de Souza Lima," R. Guararema, 138",Taiaçupeba ,(11) 4724-0416,287
+108, E.E. Benedito de Souza Lima," R. Guararema, 138",Taiaçupeba ,(11) 4724-0417,287
+109, E.E. Benedito de Souza Lima," R. Guararema, 138",Taiaçupeba ,(11) 4724-0418,287
+110, E.E. Américo Sugai," Est. Mogi-Quatinga, KM 23", Pindorama, (11) 4722-1034,287
+111, E.E. Américo Sugai," Est. Mogi-Quatinga, KM 23", Pindorama, (11) 4722-1034,287
+112, E.E. Vereador Tadao Sakai," R. Antonio Rosendo de Lima , 315", Quatinga, (11) 4722-1281,287
+113, E.E. Vereador Tadao Sakai," R. Antonio Rosendo de Lima , 315", Quatinga, (11) 4722-1281,287
+114, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6903,287
+115, E.E. Dr. Claudio Abrahão," R. Dr. João Antônio R. de Moraes, 100", Vila Jundiaí,(11) 4727-3160,287
+116, E.E. Frei Thimoteo Van Den Broeck," R. Maria Diana F. Marmora,  s/n",Jardim Esperança,(11) 4727-1701,287
+117, E.E. Profª. Sueli de Oliveira Silva Martins," R. Monte Carmelo , 110", Parque Morumbi, (11) 4796-1020,287
+118, E.E. Profª. Laurinda Cardoso Melo Freire," R. Felipe Camarão , 221", Jardim Universo, (11) 4721-6103,287
+119, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6904,287
+120, E.E. Profª. Lucinda Bastos," R. São Jorge , 50", Cj. Residencial Santo Ângelo, (11) 4727-1922,287
+121, E.E. Dr. Deodato Wertheimer," R. Engenheiro Gualberto, nº 1516",Centro,(11) 4791-2300,287
+122, E.E. Francisco Ferreira Lopes," R. Dr. Deodato Wertheimer, 426",Vila Mogilar,(11) 4790-3914,287
+123, E.E. Prof. Paulo Ferrari Massaro," R. Alexandre Andreotti , 400", Jundiapeba, (11) 4721-6109,287
+124, E.E. Profª. Helena Urbano Nagib," R. Paulo Leite de Siqueira,  584",Jardim Modelo,(11) 4727-3866,287
+125, E.E. Profª. Laurinda Cardoso Melo Freire," R. Felipe Camarão , 221", Jardim Universo, (11) 4721-6103,287
+126, E.E. Frei Thimoteo Van Den Broeck," R. Maria Diana F. Marmora,  s/n",Jardim Esperança,(11) 4727-1701,287
+127, E.M. Profª. Maria Luiza Menezes Fonseca," R. Sussumo Mori , 40", Vila Estação, (11) 4722-9372,287
+128, E.M. Profª. Maria Luiza Menezes Fonseca," R. Sussumo Mori , 40", Vila Estação, (11) 4722-9372,287
+129, E.E. Prof. Benedito Borges Vieira," Rod. Francisco Ribeiro Nogueira (Mogi-Bertioga), s/nº",Taiaçupeba ,(11) 4796-2836,287
+130, E.E. Prof. João Cardoso dos Santos," R. Thiago Silvestre Furtado , s/n", Biritiba Ussu, (11) 4792-1188,287
+131, E.E. Profª. Josephina Najar Hernandez," R. Pedro Paulo dos Santos , 2475", Jundiapeba, (11) 4727-3649,287
+132, E.E. Benedito de Souza Lima," R. Guararema, 138",Taiaçupeba ,(11) 4724-0419,287
+133, E.E. Profª. Laurinda Cardoso Melo Freire," R. Felipe Camarão , 221", Jardim Universo, (11) 4721-6103,287
+134, E.E. Dr. Claudio Abrahão," R. Dr. João Antônio R. de Moraes, 100", Vila Jundiaí,(11) 4727-3160,287
+135, E.E. Frei Thimoteo Van Den Broeck," R. Maria Diana F. Marmora,  s/n",Jardim Esperança,(11) 4727-1701,287
+136, E.E. Frei Thimoteo Van Den Broeck," R. Maria Diana F. Marmora,  s/n",Jardim Esperança,(11) 4727-1701,287
+137, E.E. Profª. Josephina Najar Hernandez," R. Pedro Paulo dos Santos , 2475", Jundiapeba, (11) 4727-3649,287
+138, E.E. Profª. Josephina Najar Hernandez," R. Pedro Paulo dos Santos , 2475", Jundiapeba, (11) 4727-3649,287
+139, E.M. Profª. Maria Luiza Menezes Fonseca," R. Sussumo Mori , 40", Vila Estação, (11) 4722-9372,287
+140, E.E. Profª. Laurinda Cardoso Melo Freire," R. Felipe Camarão , 221", Jardim Universo, (11) 4721-6103,287
+141, E.E. Profª. Helena Urbano Nagib," R. Paulo Leite de Siqueira,  585",Jardim Modelo,(11) 4727-3866,287
+142, E.E. Profª. Lucinda Bastos," R. São Jorge , 50", Cj. Residencial Santo Ângelo, (11) 4727-1922,287
+143, E.E. Profª. Maria Isabel dos Santos Mello," Av. Presidente Altino Arantes , 100", Jundiapeba, (11) 4727-4350,287
+144, E.E. Américo Sugai," Est. Mogi-Quatinga, KM 23", Pindorama, (11) 4722-1034,287
+145, E.E. Dr. Claudio Abrahão," R. Dr. João Antônio R. de Moraes, 100", Vila Jundiaí,(11) 4727-3160,287
+146, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6905,287
+147, E.E. Prof. Paulo Ferrari Massaro," R. Alexandre Andreotti , 400", Jundiapeba, (11) 4721-6109,287
+148, E.E. Frei Thimoteo Van Den Broeck," R. Maria Diana F. Marmora,  s/n",Jardim Esperança,(11) 4727-1701,287
+149, E.E. Profª. Sueli de Oliveira Silva Martins," R. Monte Carmelo , 110", Parque Morumbi, (11) 4796-1020,287
+150, E.E. Comendador Koheiji Adachi," Estrada Etsunari Adachi, nº 100", Jardim Santos Dumont I, (11) 4721-1854,287
+151, E.E. Prof. Paulo Ferrari Massaro," R. Alexandre Andreotti , 400", Jundiapeba, (11) 4721-6109,287
+152, E.E. Frei Thimoteo Van Den Broeck," R. Maria Diana F. Marmora,  s/n",Jardim Esperança,(11) 4727-1701,287
+153, E.E. Profª. Maria Isabel dos Santos Mello," Av. Presidente Altino Arantes , 100", Jundiapeba, (11) 4727-4350,287
+154, E.E. Prof. João Cardoso dos Santos," R. Thiago Silvestre Furtado , s/n", Biritiba Ussu, (11) 4792-1188,287
+155, E.E. Prof. Cid Boucault," R. Professora Lucinda Bastos, 1250",Jundiapeba ,(11) 4721-6101,287
+156, E.E. Profª. Isabel Ferreira da Silva Belinha," R. José Benedito dos Santos, 187", Vila Brasileira, (11) 4723-1124,287
+157, E.M. Profª. Maria Luiza Menezes Fonseca," R. Sussumo Mori , 40", Vila Estação, (11) 4722-9372,287
+158, E.E. Profª. Helena Urbano Nagib," R. Paulo Leite de Siqueira,  586",Jardim Modelo,(11) 4727-3866,287
+159, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6906,287
+160, E.E. Profª. Maria Isabel dos Santos Mello," Av. Presidente Altino Arantes , 100", Jundiapeba, (11) 4727-4350,287
+161, E.E. Prof. Cid Boucault," R. Professora Lucinda Bastos, 1250",Jundiapeba ,(11) 4721-6101,287
+162, E.E. Prof. Cid Boucault," R. Professora Lucinda Bastos, 1250",Jundiapeba ,(11) 4721-6101,287
+163, E.E. Profª. Helena Urbano Nagib," R. Paulo Leite de Siqueira,  587",Jardim Modelo,(11) 4727-3866,287
+164, E.E. Prof. Cid Boucault," R. Professora Lucinda Bastos, 1250",Jundiapeba ,(11) 4721-6101,287
+165, E.E. Profª. Isabel Ferreira da Silva Belinha," R. José Benedito dos Santos, 187", Vila Brasileira, (11) 4723-1124,287
+166, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6907,287
+167, E.M. Profª. Maria Luiza Menezes Fonseca," R. Sussumo Mori , 40", Vila Estação, (11) 4722-9372,287
+168, E.E. Prof. Cid Boucault," R. Professora Lucinda Bastos, 1250",Jundiapeba ,(11) 4721-6101,287
+169, E.E. Profª. Lucinda Bastos," R. São Jorge , 50", Cj. Residencial Santo Ângelo, (11) 4727-1922,287
+170, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6908,287
+171, E.E. Profª. Isabel Ferreira da Silva Belinha," R. José Benedito dos Santos, 187", Vila Brasileira, (11) 4723-1124,287
+172, E.E. Historiador Isaac Grinberg," R. Fernando Namura, 120",Jardim Santa Teresa, (11) 4794-5055,287
+173, E.E. Profª. Vania Aparecida Cassará," Av. João de Souza Franco , 350", Jundiapeba, (11) 4738-4114,287
+174, E.E. Historiador Isaac Grinberg," R. Fernando Namura, 120",Jardim Santa Teresa, (11) 4794-5055,287
+175, E.E. Benedito de Souza Lima," R. Guararema, 138",Taiaçupeba ,(11) 4724-0420,287
+176, E.E. Prof. João Cardoso dos Santos," R. Thiago Silvestre Furtado , s/n", Biritiba Ussu, (11) 4792-1188,287
+177, E.E. Comendador Koheiji Adachi," Estrada Etsunari Adachi, nº 100", Jardim Santos Dumont I, (11) 4721-1854,287
+178, E.E. Prof. Benedito Borges Vieira," Rod. Francisco Ribeiro Nogueira (Mogi-Bertioga), s/nº",Taiaçupeba ,(11) 4796-2837,287
+179, E.E. Leonor de Oliveira Mello," R. Joaquina Maria de Jesus , 641", Vila Mogilar, (11) 4790-1922,287
+180, E.M. Prof. Adolfo Martini (Sesi 113)," R. Rômulo de Brito, 281", Jardim Santa Carolina, (11) 4791-3679,287
+181, CER Dr. Arnaldo Pezzuti Cavalcanti," Rod. Eng. Cândido do R. Chaves,  s/nº",Quatinga,(11) 4723-9800,287
+182, E.E. Américo Sugai," Est. Mogi-Quatinga, KM 23", Pindorama, (11) 4722-1034,287
+183, E.E. Profª. Isabel Ferreira da Silva Belinha," R. José Benedito dos Santos, 187", Vila Brasileira, (11) 4723-1124,287
+184, E.E. Dr. Arlindo Aquino de Oliveira," Est. Prof. Walter Ferraz (Mogi-Taiaçupeba), s/nº",Taiaçupeba , (11) 4792-2611,287
+185, E.E. Dr. Deodato Wertheimer," R. Engenheiro Gualberto, nº 1516",Centro,(11) 4791-2300,287
+186, E.E. Profª. Josephina Najar Hernandez," R. Pedro Paulo dos Santos , 2475", Jundiapeba, (11) 4727-3649,287
+187, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6909,287
+188, E.E. Profª. Sueli de Oliveira Silva Martins," R. Monte Carmelo , 110", Parque Morumbi, (11) 4796-1020,287
+189, E.E. Vereador Tadao Sakai," R. Antonio Rosendo de Lima , 315", Quatinga, (11) 4722-1281,287
+190, E.M. Profª. Maria Aparecida de Faria," R. Dr. João Antonio R. de Moraes , 85", Vila Jundiaí, (11) 4794-3967,287
+191, E.E. Profª. Vania Aparecida Cassará," Av. João de Souza Franco , 350", Jundiapeba, (11) 4738-4114,287
+192, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+193, E.M. Profª. Maria Luiza Menezes Fonseca," R. Sussumo Mori , 40", Vila Estação, (11) 4722-9372,287
+194, E.E. Historiador Isaac Grinberg," R. Fernando Namura, 120",Jardim Santa Teresa, (11) 4794-5055,287
+195, E.E. Francisco Ferreira Lopes," R. Dr. Deodato Wertheimer, 426",Vila Mogilar,(11) 4790-3914,287
+196, E.E. Profª. Vania Aparecida Cassará," Av. João de Souza Franco , 350", Jundiapeba, (11) 4738-4114,287
+197, E.M. Prof. Mario Portes," R. Pedro Paulo dos Santos , 2251", Jundiapeba, (11) 4721-2156,287
+198, E.M. Dr. Isidoro Boucault," R. José Aires Gama , 25", Cj. Hab. Brás Cubas, (11) 4726-6371,287
+199, E.M. Afonso Caporali Filho," R. Sebastião Michel Miguel, 42", Cj Res. Cocuera, (11) 4725-7111,287
+200, E.M. Leopoldino Cardoso de Moraes," R. Thiago Silvestre Furtado , 151", Biritiba Ussú, (11) 4761-0123,287
+201, E.M. Profª. Doracy Baptista de Campos Pereira," R. Jose Benedito dos S.,  s/n",Vila Brasileira,(11) 4727-5083,287
+202, E.E. Historiador Isaac Grinberg," R. Fernando Namura, 120",Jardim Santa Teresa, (11) 4794-5055,287
+203, E.E. Profª. Lucinda Bastos," R. São Jorge , 50", Cj. Residencial Santo Ângelo, (11) 4727-1922,287
+204, E.M. Profª. Maria Aparecida de Faria," R. Dr. João Antonio R. de Moraes , 85", Vila Jundiaí, (11) 4794-3967,287
+205, E.E. Historiador Isaac Grinberg," R. Fernando Namura, 120",Jardim Santa Teresa, (11) 4794-5055,287
+206, E.E. Profª. Vania Aparecida Cassará," Av. João de Souza Franco , 350", Jundiapeba, (11) 4738-4114,287
+207, E.M. Prof. Sergio Hugo Pinheiro," R. Georgina S. de Souza , 195", Nove de Julho, (11) 4722-1479,287
+208, E.M. Prof. Mario Portes," R. Pedro Paulo dos Santos , 2251", Jundiapeba, (11) 4721-2156,287
+209, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+210, E.E. Comendador Koheiji Adachi," Estrada Etsunari Adachi, nº 100", Jardim Santos Dumont I, (11) 4721-1854,287
+211, E.M. Profª. Doracy Baptista de Campos Pereira," R. Jose Benedito dos S.,  s/n",Vila Brasileira,(11) 4727-5083,287
+212, E.E. Historiador Isaac Grinberg," R. Fernando Namura, 120",Jardim Santa Teresa, (11) 4794-5055,287
+213, E.E. Profª. Vania Aparecida Cassará," Av. João de Souza Franco , 350", Jundiapeba, (11) 4738-4114,287
+214, E.E. Benedito de Souza Lima," R. Guararema, 138",Taiaçupeba ,(11) 4724-0421,287
+215, E.E. Francisco Ferreira Lopes," R. Dr. Deodato Wertheimer, 426",Vila Mogilar,(11) 4790-3914,287
+216, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+217, E.M. Prof. Sergio Hugo Pinheiro," R. Georgina S. de Souza , 195", Nove de Julho, (11) 4722-1479,287
+218, E.M. Profª. Maria Aparecida de Faria," R. Dr. João Antonio R. de Moraes , 85", Vila Jundiaí, (11) 4794-3967,287
+219, E.E. Profª. Vania Aparecida Cassará," Av. João de Souza Franco , 350", Jundiapeba, (11) 4738-4114,287
+220, E.E. Historiador Isaac Grinberg," R. Fernando Namura, 120",Jardim Santa Teresa, (11) 4794-5055,287
+221, E.M. Profª. Doracy Baptista de Campos Pereira," R. Jose Benedito dos S.,  s/n",Vila Brasileira,(11) 4727-5083,287
+222, E.M. Prof. Mario Portes," R. Pedro Paulo dos Santos , 2251", Jundiapeba, (11) 4721-2156,287
+223, E.E. Historiador Isaac Grinberg," R. Fernando Namura, 120",Jardim Santa Teresa, (11) 4794-5055,287
+224, E.E. Prof. Cid Boucault," R. Professora Lucinda Bastos, 1250",Jundiapeba ,(11) 4721-6101,287
+225, E.M. Profª. Vanda Constantino da Costa," R. Guttermann , 55", Braz Cubas, (11) 4727-7111,287
+226, E.M. Profª. Cecilia Souza Lima Vianna," R. Avelino Nunes de Souza, 235",Taiaçupeba , (11) 4724-4317,287
+227, E.E. Profª. Isabel Ferreira da Silva Belinha," R. José Benedito dos Santos, 187", Vila Brasileira, (11) 4723-1124,287
+228, E.M. Prof. Lázaro Gonçalves Teixeira," R. Prof. José Veiga , 190", Cj. Hab. São Sebastião, (11) 4725-7124,287
+229, C.M. Cempre Oswaldo Regino Ornellas," R. Benedita Pereira Franco, 2801",Jundiapeba ,(11) 4721-3645  ,287
+230, E.M. Profª. Doracy Baptista de Campos Pereira," R. Jose Benedito dos S.,  s/n",Vila Brasileira,(11) 4727-5083,287
+231, E.E. Profª. Vania Aparecida Cassará," Av. João de Souza Franco , 350", Jundiapeba, (11) 4738-4114,287
+232, E.E. Profª. Lucinda Bastos," R. São Jorge , 50", Cj. Residencial Santo Ângelo, (11) 4727-1922,287
+233, E.E. Historiador Isaac Grinberg," R. Fernando Namura, 120",Jardim Santa Teresa, (11) 4794-5055,287
+234, E.E. Comendador Koheiji Adachi," Estrada Etsunari Adachi, nº 100", Jardim Santos Dumont I, (11) 4721-1854,287
+235, E.E. Prof. Benedito Borges Vieira," Rod. Francisco Ribeiro Nogueira (Mogi-Bertioga), s/nº",Taiaçupeba ,(11) 4796-2838,287
+236, E.M. Afonso Caporali Filho," R. Sebastião Michel Miguel, 42", Cj. Res. Cocuera, (11) 4725-7111,287
+237, E.M. Profª. Maria Luiza Menezes Fonseca," R. Sussumo Mori , 40", Vila Estação, (11) 4722-9372,287
+238, E.M. Leopoldino Cardoso de Moraes," R. Thiago Silvestre Furtado , 151", Biritiba Ussú, (11) 4761-0123,287
+239, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+240, E.E. Historiador Isaac Grinberg," R. Fernando Namura, 120",Jardim Santa Teresa, (11) 4794-5055,287
+241, E.M. Profª. Vanda Constantino da Costa," R. Guttermann , 55", Braz Cubas, (11) 4727-7111,287
+242, E.M. Profª. Maria Aparecida de Faria," R. Dr. João Antonio R. de Moraes , 85", Vila Jundiaí, (11) 4794-3967,287
+243, E.E. Prof. Paulo de Oliveira Mello," R. Kasumo Sumizono , 1226", Jardim Santa Teresa, (11) 4727-2553,287
+244, E.E. Prof. Cid Boucault," R. Professora Lucinda Bastos, 1250",Jundiapeba ,(11) 4721-6101,287
+245, E.M. Dr. Isidoro Boucault," R. José Aires Gama , 25", Cj. Hab. Brás Cubas, (11) 4726-6371,287
+246, E.E. Leonor de Oliveira Mello," R. Joaquina Maria de Jesus , 641", Vila Mogilar, (11) 4790-1922,287
+247, E.E. Prof. Cid Boucault," R. Professora Lucinda Bastos, 1250",Jundiapeba ,(11) 4721-6101,287
+248, E.E. Prof. Paulo de Oliveira Mello," R. Kasumo Sumizono , 1226", Jardim Santa Teresa, (11) 4727-2553,287
+249, E.E. Profª. Lucinda Bastos," R. São Jorge , 50", Cj. Residencial Santo Ângelo, (11) 4727-1922,287
+250, E.E. Profª. Vania Aparecida Cassará," Av. João de Souza Franco , 350", Jundiapeba, (11) 4738-4114,287
+251, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+252, E.E. Dr. Deodato Wertheimer," R. Engenheiro Gualberto, nº 1516",Centro,(11) 4791-2300,287
+253, E.M. Prof. Lázaro Gonçalves Teixeira," R. Prof. José Veiga , 190", Cj. Hab. São Sebastião, (11) 4725-7124,287
+254, E.M. Profª. Vanda Constantino da Costa," R. Guttermann , 55", Braz Cubas, (11) 4727-7111,287
+255, E.E. Leonor de Oliveira Mello," R. Joaquina Maria de Jesus , 641", Vila Mogilar, (11) 4790-1922,287
+256, E.M. Profª. Doracy Baptista de Campos Pereira," R. Jose Benedito dos S.,  s/n",Vila Brasileira,(11) 4727-5083,287
+257, E.E. Comendador Koheiji Adachi," Estrada Etsunari Adachi, nº 100", Jardim Santos Dumont I, (11) 4721-1854,287
+258, E.M. Profª. Cecilia Souza Lima Vianna," R. Avelino Nunes de Souza, 235",Taiaçupeba , (11) 4724-4317,287
+259, E.E. Gabriel Pereira," R. Jother S. Pinto, 38",Cj. Hab. Brás Cubas ,(11) 4796-3581,287
+260, E.M. Prof. Mario Portes," R. Pedro Paulo dos Santos , 2251", Jundiapeba, (11) 4721-2156,287
+261, E.M. Profª. Maria Aparecida de Faria," R. Dr. João Antonio R. de Moraes , 85", Vila Jundiaí, (11) 4794-3967,287
+262, E.E. Francisco Ferreira Lopes," R. Dr. Deodato Wertheimer, 426",Vila Mogilar,(11) 4790-3914,287
+263, E.M. Profª. Vanda Constantino da Costa," R. Guttermann , 55", Braz Cubas, (11) 4727-7111,287
+264, E.E. Prof. Paulo de Oliveira Mello," R. Kasumo Sumizono , 1226", Jardim Santa Teresa, (11) 4727-2553,287
+265, E.E. Prof. Cid Boucault," R. Professora Lucinda Bastos, 1250",Jundiapeba ,(11) 4721-6101,287
+266, E.E. Vereador Tadao Sakai," R. Antonio Rosendo de Lima , 315", Quatinga, (11) 4722-1281,287
+267, E.E. Prof. Paulo de Oliveira Mello," R. Kasumo Sumizono , 1226", Jardim Santa Teresa, (11) 4727-2553,287
+268, E.M. Prof. Lázaro Gonçalves Teixeira," R. Prof. José Veiga , 190", Cj. Hab. São Sebastião, (11) 4725-7124,287
+269, E.M. Profª. Doracy Baptista de Campos Pereira," R. Jose Benedito dos S.,  s/n",Vila Brasileira,(11) 4727-5083,287
+270, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+271, E.E. Prof. Cid Boucault," R. Professora Lucinda Bastos, 1250",Jundiapeba ,(11) 4721-6101,287
+272, E.E. Profª. Lucinda Bastos," R. São Jorge , 50", Cj. Residencial Santo Ângelo, (11) 4727-1922,287
+273, E.E. Prof. Paulo de Oliveira Mello," R. Kasumo Sumizono , 1226", Jardim Santa Teresa, (11) 4727-2553,287
+274, E.M. Afonso Caporali Filho," R. Sebastião Michel Miguel, 42", Cj. Res. Cocuera, (11) 4725-7111,287
+275, E.M. Leopoldino Cardoso de Moraes," R. Thiago Silvestre Furtado , 151", Biritiba Ussú, (11) 4761-0123,287
+276, E.E. Prof. Benedito Borges Vieira," Rod. Francisco Ribeiro Nogueira (Mogi-Bertioga), s/nº",Taiaçupeba ,(11) 4796-2839,287
+277, E.M. Prof. Adolfo Martini (Sesi 113)," R. Rômulo de Brito, 281", Jardim Santa Carolina, (11) 4791-3679,287
+278, E.M. Prof. Sergio Hugo Pinheiro," R. Georgina S. de Souza , 195", Nove de Julho, (11) 4722-1479,287
+279, E.M. Profª. Vanda Constantino da Costa," R. Guttermann , 55", Braz Cubas, (11) 4727-7111,287
+280, C.M. Cempre Oswaldo Regino Ornellas," R. Benedita Pereira Franco, 2801",Jundiapeba ,(11) 4721-3645  ,287
+281, E.E. Prof. Cid Boucault," R. Professora Lucinda Bastos, 1250",Jundiapeba ,(11) 4721-6101,287
+282, E.E. Prof. Paulo de Oliveira Mello," R. Kasumo Sumizono , 1226", Jardim Santa Teresa, (11) 4727-2553,287
+283, E.M. Profª. Doracy Baptista de Campos Pereira," R. Jose Benedito dos S.,  s/n",Vila Brasileira,(11) 4727-5083,287
+284, E.E. Comendador Koheiji Adachi," Estrada Etsunari Adachi, nº 100", Jardim Santos Dumont I, (11) 4721-1854,287
+285, E.E. Prof. Cid Boucault," R. Professora Lucinda Bastos, 1250",Jundiapeba ,(11) 4721-6101,287
+286, E.E. Prof. Paulo de Oliveira Mello," R. Kasumo Sumizono , 1226", Jardim Santa Teresa, (11) 4727-2553,287
+287, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6910,287
+288, E.M. Profª. Maria Aparecida de Faria," R. Dr. João Antonio R. de Moraes , 85", Vila Jundiaí, (11) 4794-3967,287
+289, E.E. Profª. Isabel Ferreira da Silva Belinha," R. José Benedito dos Santos, 187", Vila Brasileira, (11) 4723-1124,287
+290, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+291, E.M. Prof. Mario Portes," R. Pedro Paulo dos Santos , 2251", Jundiapeba, (11) 4721-2156,287
+292, E.E. Profª. Lucinda Bastos," R. São Jorge , 50", Cj. Residencial Santo Ângelo, (11) 4727-1922,287
+293, E.E. Historiador Isaac Grinberg," R. Fernando Namura, 120",Jardim Santa Teresa, (11) 4794-5055,287
+294, E.M. Profª. Cecilia Souza Lima Vianna," R. Avelino Nunes de Souza, 235",Taiaçupeba , (11) 4724-4317,287
+295, E.E. Prof. Paulo de Oliveira Mello," R. Kasumo Sumizono , 1226", Jardim Santa Teresa, (11) 4727-2553,287
+296,E.M. PROF. DEMERVAL AROUCA ,"R. Jaime Ângelo Nogueira, nº 30 ",Jardim Ivete,(11) 4724-9906 ,287
+297, E.M. Prof. Mario Portes," R. Pedro Paulo dos Santos , 2251", Jundiapeba, (11) 4721-2156,287
+298, E.E. Prof. Cid Boucault," R. Professora Lucinda Bastos, 1250",Jundiapeba ,(11) 4721-6101,287
+299, E.E. Profª. Vania Aparecida Cassará," Av. João de Souza Franco , 350", Jundiapeba, (11) 4738-4114,287
+300, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+301, E.E. Dr. Deodato Wertheimer," R. Engenheiro Gualberto, nº 1516",Centro,(11) 4791-2300,287
+302, E.E. Profª. Isabel Ferreira da Silva Belinha," R. José Benedito dos Santos, 187", Vila Brasileira, (11) 4723-1124,287
+303, E.E. Francisco Ferreira Lopes," R. Dr. Deodato Wertheimer, 426",Vila Mogilar,(11) 4790-3914,287
+304, E.M. Prof. Adolfo Martini (Sesi 113)," R. Rômulo de Brito, 281", Jardim Santa Carolina, (11) 4791-3679,287
+305, E.E. Prof. Cid Boucault," R. Professora Lucinda Bastos, 1250",Jundiapeba ,(11) 4721-6101,287
+306, E.E. Comendador Koheiji Adachi," Estrada Etsunari Adachi, nº 100", Jardim Santos Dumont I, (11) 4721-1854,287
+307, E.E. Prof. Benedito Borges Vieira," Rod. Francisco Ribeiro Nogueira (Mogi-Bertioga), s/nº",Taiaçupeba ,(11) 4796-2840,287
+308, E.E. Benedito de Souza Lima," R. Guararema, 138",Taiaçupeba ,(11) 4724-0422,287
+309, E.E. Leonor de Oliveira Mello," R. Joaquina Maria de Jesus , 641", Vila Mogilar, (11) 4790-1922,287
+310, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6911,287
+311, E.E. Prof. Paulo Ferrari Massaro," R. Alexandre Andreotti , 400", Jundiapeba, (11) 4721-6109,287
+312, E.E. Profª. Lucinda Bastos," R. São Jorge , 50", Cj. Residencial Santo Ângelo, (11) 4727-1922,287
+313, E.M. Profª. Maria Luiza Menezes Fonseca," R. Sussumo Mori , 40", Vila Estação, (11) 4722-9372,287
+314, E.E. Dr. Claudio Abrahão," R. Dr. João Antônio R. de Moraes, 100", Vila Jundiaí,(11) 4727-3160,287
+315, E.E. Profª. Josephina Najar Hernandez," R. Pedro Paulo dos Santos , 2475", Jundiapeba, (11) 4727-3649,287
+316, E.E. Vereador Tadao Sakai," R. Antonio Rosendo de Lima , 315", Quatinga, (11) 4722-1281,287
+317, E.E. Prof. João Cardoso dos Santos," R. Thiago Silvestre Furtado , s/n", Biritiba Ussu, (11) 4792-1188,287
+318, E.M. Prof. Sergio Hugo Pinheiro," R. Georgina S. de Souza , 195", Nove de Julho, (11) 4722-1479,287
+319, E.E. Prof. Paulo de Oliveira Mello," R. Kasumo Sumizono , 1226", Jardim Santa Teresa, (11) 4727-2553,287
+320, E.M. Profª. Cecilia Souza Lima Vianna," R. Avelino Nunes de Souza, 235",Taiaçupeba , (11) 4724-4317,287
+321, E.E. Prof. Cid Boucault," R. Professora Lucinda Bastos, 1250",Jundiapeba ,(11) 4721-6101,287
+322, E.E. Dr. Deodato Wertheimer," R. Engenheiro Gualberto, nº 1516",Centro,(11) 4791-2300,287
+323, E.E. Profª. Isabel Ferreira da Silva Belinha," R. José Benedito dos Santos, 187", Vila Brasileira, (11) 4723-1124,287
+324, E.E. Prof. Paulo de Oliveira Mello," R. Kasumo Sumizono , 1226", Jardim Santa Teresa, (11) 4727-2553,287
+325, E.E. Américo Sugai," Est. Mogi-Quatinga, KM 23", Pindorama, (11) 4722-1034,287
+326, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+327, E.M. Dr. Isidoro Boucault," R. José Aires Gama , 25", Cj. Hab. Brás Cubas, (11) 4726-6371,287
+328, E.E. Prof. Paulo Ferrari Massaro," R. Alexandre Andreotti , 400", Jundiapeba, (11) 4721-6109,287
+329, E.E. Prof. Paulo de Oliveira Mello," R. Kasumo Sumizono , 1226", Jardim Santa Teresa, (11) 4727-2553,287
+330, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+331, E.M. Profª. Maria Aparecida de Faria," R. Dr. João Antonio R. de Moraes , 85", Vila Jundiaí, (11) 4794-3967,287
+332, E.E. Profª. Isabel Ferreira da Silva Belinha," R. José Benedito dos Santos, 187", Vila Brasileira, (11) 4723-1124,287
+333, E.E. Prof. Paulo de Oliveira Mello," R. Kasumo Sumizono , 1226", Jardim Santa Teresa, (11) 4727-2553,287
+334, E.M. Prof. Mario Portes," R. Pedro Paulo dos Santos , 2251", Jundiapeba, (11) 4721-2156,287
+335, E.E. Comendador Koheiji Adachi," Estrada Etsunari Adachi, nº 100", Jardim Santos Dumont I, (11) 4721-1854,287
+336, C.M. Cempre Oswaldo Regino Ornellas," R. Benedita Pereira Franco, 2801",Jundiapeba ,(11) 4721-3645  ,287
+337, E.E. Prof. Paulo de Oliveira Mello," R. Kasumo Sumizono , 1226", Jardim Santa Teresa, (11) 4727-2553,287
+338, E.E. Dr. Claudio Abrahão," R. Dr. João Antônio R. de Moraes, 100", Vila Jundiaí,(11) 4727-3160,287
+339, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+340, E.E. Profª. Isabel Ferreira da Silva Belinha," R. José Benedito dos Santos, 187", Vila Brasileira, (11) 4723-1124,287
+341, E.E. Profª. Vania Aparecida Cassará," Av. João de Souza Franco , 350", Jundiapeba, (11) 4738-4114,287
+346, E.M. Waldir Paiva de Oliveira Freitas," R. Guttermann , 151", Braz Cubas, (11) 4794-7722,287
+347, E.M. Lourdes Maria Prado Aguiar," R. Matathias Nogueira Novaes , 10", Jardim Esperança, (11) 4727-1129,287
+348, E.M. João Antonio Batalha," Estrada Municipal , 118", Jundiapeba, (11) 4727-2227,287
+349, E.M. Leopoldino Cardoso de Moraes," R. Thiago Silvestre Furtado , 151", Biritiba Ussú, (11) 4761-0123,287
+350, E.M. Profª. Maria Aparecida de Faria," R. Dr. João Antonio R. de Moraes , 85", Vila Jundiaí, (11) 4794-3967,287
+351, E.M. Lourdes Maria Prado Aguiar," R. Matathias Nogueira Novaes , 10", Jardim Esperança, (11) 4727-1129,287
+352, E.M. Afonso Caporali Filho," R. Sebastião Michel Miguel, 42", Cj. Res. Cocuera, (11) 4725-7111,287
+353, E.E. Profª. Vania Aparecida Cassará," Av. João de Souza Franco , 350", Jundiapeba, (11) 4738-4114,287
+354, E.M. Prof. Lázaro Gonçalves Teixeira," R. Prof. José Veiga , 190", Cj. Hab. São Sebastião, (11) 4725-7124,287
+355, E.M. Lourdes Maria Prado Aguiar," R. Matathias Nogueira Novaes , 10", Jardim Esperança, (11) 4727-1129,287
+356, E.M. Waldir Paiva de Oliveira Freitas," R. Guttermann , 151", Braz Cubas, (11) 4794-7722,287
+357, E.M. Lourdes Maria Prado Aguiar," R. Matathias Nogueira Novaes , 10", Jardim Esperança, (11) 4727-1129,287
+358, E.M. Waldir Paiva de Oliveira Freitas," R. Guttermann , 151", Braz Cubas, (11) 4794-7722,287
+359, E.E. Dr. Arlindo Aquino de Oliveira," Est. Prof. Walter Ferraz (Mogi-Taiaçupeba), s/nº",Taiaçupeba , (11) 4792-2611,287
+360, E.E. Profª. Vania Aparecida Cassará," Av. João de Souza Franco , 350", Jundiapeba, (11) 4738-4114,287
+361, E.M. Dr. Isidoro Boucault," R. José Aires Gama , 25", Cj. Hab. Brás Cubas, (11) 4726-6371,287
+362, C.M. Cempre Oswaldo Regino Ornellas," R. Benedita Pereira Franco, 2801",Jundiapeba ,(11) 4721-3645  ,287
+363, E.E. Francisco Ferreira Lopes," R. Dr. Deodato Wertheimer, 426",Vila Mogilar,(11) 4790-3914,287
+364, E.M. Lourdes Maria Prado Aguiar," R. Matathias Nogueira Novaes , 10", Jardim Esperança, (11) 4727-1129,287
+365, E.M. Profª. Maria Aparecida de Faria," R. Dr. João Antonio R. de Moraes , 85", Vila Jundiaí, (11) 4794-3967,287
+366, E.M. Profª. Doracy Baptista de Campos Pereira," R. Jose Benedito dos S.,  s/n",Vila Brasileira,(11) 4727-5083,287
+367, E.E. Profª. Vania Aparecida Cassará," Av. João de Souza Franco , 350", Jundiapeba, (11) 4738-4114,287
+368, E.M. Waldir Paiva de Oliveira Freitas," R. Guttermann , 151", Braz Cubas, (11) 4794-7722,287
+369, E.M. Lourdes Maria Prado Aguiar," R. Matathias Nogueira Novaes , 10", Jardim Esperança, (11) 4727-1129,287
+370, E.M. João Antonio Batalha," Estrada Municipal , 118", Jundiapeba, (11) 4727-2227,287
+371, C.M. Cempre Oswaldo Regino Ornellas," R. Benedita Pereira Franco, 2801",Jundiapeba ,(11) 4721-3645  ,287
+372, E.M. Lourdes Maria Prado Aguiar," R. Matathias Nogueira Novaes , 10", Jardim Esperança, (11) 4727-1129,287
+373, E.M. Profª. Maria Aparecida de Faria," R. Dr. João Antonio R. de Moraes , 85", Vila Jundiaí, (11) 4794-3967,287
+374, E.M. Profª. Cecilia Souza Lima Vianna," R. Avelino Nunes de Souza, 235",Taiaçupeba , (11) 4724-4317,287
+375, E.M. Prof. Sergio Hugo Pinheiro," R. Georgina S. de Souza , 195", Nove de Julho, (11) 4722-1479,287
+376, E.M. Profª. Doracy Baptista de Campos Pereira," R. Jose Benedito dos S.,  s/n",Vila Brasileira,(11) 4727-5083,287
+377, E.E. Francisco Ferreira Lopes," R. Dr. Deodato Wertheimer, 426",Vila Mogilar,(11) 4790-3914,287
+378, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6912,287
+379, E.E. Prof. Cid Boucault," R. Professora Lucinda Bastos, 1250",Jundiapeba ,(11) 4721-6101,287
+380, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6913,287
+381, E.M. Afonso Caporali Filho," R. Sebastião Michel Miguel, 42", Cj. Res. Cocuera, (11) 4725-7111,287
+382, C.M. Cempre Oswaldo Regino Ornellas," R. Benedita Pereira Franco, 2801",Jundiapeba ,(11) 4721-3645  ,287
+383, E.E. Profª. Josephina Najar Hernandez," R. Pedro Paulo dos Santos , 2475", Jundiapeba, (11) 4727-3649,287
+384, E.E. Profª. Isabel Ferreira da Silva Belinha," R. José Benedito dos Santos, 187", Vila Brasileira, (11) 4723-1124,287
+385, C.M. Cempre Oswaldo Regino Ornellas," R. Benedita Pereira Franco, 2801",Jundiapeba ,(11) 4721-3645  ,287
+386, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6914,287
+387, E.E. Francisco Ferreira Lopes," R. Dr. Deodato Wertheimer, 426",Vila Mogilar,(11) 4790-3914,287
+388, E.E. Galdino Pinheiro Franco," R. Schwartzmann,  s/n",Braz Cubas, (11) 4727-3925,287
+389, E.M. Dr. Álvaro de Campos Carneiro," R. Pedro Paulo dos S, 855", Jundiapeba, (11) 4722-7965,287
+390, C.M. Dra. Cempre Ruth Cardoso," Travessa Dois, 28", Jardim Layr,(11) 4723-2161  ,287
+391, E.M. Profª. Teresa Martins Pinhal," R. José Galdino de Castro , 252", Vila Jundiaí, (11) 4794-3716,287
+392, C.M. Dra. Cempre Ruth Cardoso," Travessa Dois, 28", Jardim Layr,(11) 4723-2161  ,287
+393, E.E. Profª. Isabel Ferreira da Silva Belinha," R. José Benedito dos Santos, 187", Vila Brasileira, (11) 4723-1124,287
+394, E.E. Profª. Sueli de Oliveira Silva Martins," R. Monte Carmelo , 110", Parque Morumbi, (11) 4796-1020,287
+395, E.M. João Antonio Batalha," Estrada Municipal , 118", Jundiapeba, (11) 4727-2227,287
+396, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6915,287
+397, C.M. Dra. Cempre Ruth Cardoso," Travessa Dois, 28", Jardim Layr,(11) 4723-2161  ,287
+398, E.M. Dr. Álvaro de Campos Carneiro," R. Pedro Paulo dos S, 855", Jundiapeba, (11) 4722-7965,287
+399, E.E. Francisco Ferreira Lopes," R. Dr. Deodato Wertheimer, 426",Vila Mogilar,(11) 4790-3914,287
+400, E.M. Dr. Isidoro Boucault," R. José Aires Gama , 25", Cj. Hab. Brás Cubas, (11) 4726-6371,287
+401, C.M. Dra. Cempre Ruth Cardoso," Travessa Dois, 28", Jardim Layr,(11) 4723-2161  ,287
+402, E.M. Dr. Álvaro de Campos Carneiro," R. Pedro Paulo dos S, 855", Jundiapeba, (11) 4722-7965,287
+403, E.M. Afonso Caporali Filho," R. Sebastião Michel Miguel, 42", Cj. Res. Cocuera, (11) 4725-7111,287
+404, E.M. Dr. Álvaro de Campos Carneiro," R. Pedro Paulo dos S, 855", Jundiapeba, (11) 4722-7965,287
+405, C.M. Dra. Cempre Ruth Cardoso," Travessa Dois, 28", Jardim Layr,(11) 4723-2161  ,287
+406, E.E. Francisco Ferreira Lopes," R. Dr. Deodato Wertheimer, 426",Vila Mogilar,(11) 4790-3914,287
+407, E.M. Dr. Álvaro de Campos Carneiro," R. Pedro Paulo dos S, 855", Jundiapeba, (11) 4722-7965,287
+408, C.M. Dra. Cempre Ruth Cardoso," Travessa Dois, 28", Jardim Layr,(11) 4723-2161  ,287
+409, E.M. Eng. Claudio Abrahão," R. Benedito de Carvalho Filho, 12", Jardim Aeroporto III,(11) 4727-7373,287
+410, C.M. Cempre Vereador Ivan Nunes Siqueira," Av. Kaoru Hiramatsu, 2025", Braz Cubas,(11) 4796-6009,287
+411, C.M. Cempre Oswaldo Regino Ornellas," R. Benedita Pereira Franco, 2801",Jundiapeba ,(11) 4721-3645  ,287
+412, E.M. Dr. Luiz Beraldo de Miranda," Av. Pref. Maurílio de S. L. Filho , 1851", Parque Olímpico, (11) 4721-3636,287
+413, E.M. Profª.­Wanda de Almeida Trandafilov," Av. Ricieri Bertaiolli , 300", Parque São Martinho, (11) 4721-9030,287
+414,E.M. José Cury Andere ,"R. Santa Lúcia , 264 ",Jardim Cecília ,(11) 4738-2727 ,287
+415, UP Universidade Braz Cubas," Av. Prefeito Carlos Ferreira Lopes , 1233", Vila Mogilar, (11) 4791-8027,287
+416, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6916,287
+417, E.M. Profª. Therezinha Soares," R. Geraldo Gomes Loureiro , 830", Vila Brasileira, (11) 4721-2993,287
+418, E.E. Prof. João Cardoso dos Santos," R. Thiago Silvestre Furtado , s/n", Biritiba Ussu, (11) 4792-1188,287
+419, UP Universidade Braz Cubas," Av. Prefeito Carlos Ferreira Lopes , 1233", Vila Mogilar, (11) 4791-8027,287
+420, E.M. Profª. Teresa Martins Pinhal," R. José Galdino de Castro , 252", Vila Jundiaí, (11) 4794-3716,287
+421, C.M. Dra. Cempre Ruth Cardoso," Travessa Dois, 28", Jardim Layr,(11) 4723-2161  ,287
+422, UP Universidade Braz Cubas," Av. Prefeito Carlos Ferreira Lopes , 1233", Vila Mogilar, (11) 4791-8027,287
+423, C.M. Cempre Oswaldo Regino Ornellas," R. Benedita Pereira Franco, 2801",Jundiapeba ,(11) 4721-3645  ,287
+424, E.M. Dr. Álvaro de Campos Carneiro," R. Pedro Paulo dos S, 855", Jundiapeba, (11) 4722-7965,287
+425, UP Universidade Braz Cubas," Av. Prefeito Carlos Ferreira Lopes , 1233", Vila Mogilar, (11) 4791-8027,287
+426, E.M. Eng. Claudio Abrahão," R. Benedito de Carvalho Filho, 12", Jardim Aeroporto III,(11) 4727-7373,287
+427, C.M. Cempre Oswaldo Regino Ornellas," R. Benedita Pereira Franco, 2801",Jundiapeba ,(11) 4721-3645  ,287
+428, C.M. Dra. Cempre Ruth Cardoso," Travessa Dois, 28", Jardim Layr,(11) 4723-2161  ,287
+429, E.M. Dr. Álvaro de Campos Carneiro," R. Pedro Paulo dos S, 855", Jundiapeba, (11) 4722-7965,287
+430, C.M. Cempre Vereador Ivan Nunes Siqueira," Av. Kaoru Hiramatsu, 2025", Braz Cubas,(11) 4796-6009,287
+431, E.M. Dr. Luiz Beraldo de Miranda," Av. Pref. Maurílio de S. L. Filho , 1851", Parque Olímpico, (11) 4721-3636,287
+432, UP Universidade Braz Cubas," Av. Prefeito Carlos Ferreira Lopes , 1233", Vila Mogilar, (11) 4791-8027,287
+433, E.M. Eng. Claudio Abrahão," R. Benedito de Carvalho Filho, 12", Jardim Aeroporto III,(11) 4727-7373,287
+434, C.M. Cempre Oswaldo Regino Ornellas," R. Benedita Pereira Franco, 2801",Jundiapeba ,(11) 4721-3645  ,287
+435, C.M. Dra. Cempre Ruth Cardoso," Travessa Dois, 28", Jardim Layr,(11) 4723-2161  ,287
+436, E.M. Dr. Álvaro de Campos Carneiro," R. Pedro Paulo dos S, 855", Jundiapeba, (11) 4722-7965,287
+437, E.M. Profª. Therezinha Soares," R. Geraldo Gomes Loureiro , 830", Vila Brasileira, (11) 4721-2993,287
+438, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6917,287
+439, E.M. Profª. Teresa Martins Pinhal," R. José Galdino de Castro , 252", Vila Jundiaí, (11) 4794-3716,287
+440, C.M. Cempre Oswaldo Regino Ornellas," R. Benedita Pereira Franco, 2801",Jundiapeba ,(11) 4721-3645  ,287
+441, C.M. Cempre Vereador Ivan Nunes Siqueira," Av. Kaoru Hiramatsu, 2025", Braz Cubas,(11) 4796-6009,287
+442, E.M. Dr. Álvaro de Campos Carneiro," R. Pedro Paulo dos S, 855", Jundiapeba, (11) 4722-7965,287
+443,E.M. Eng. Claudio Abrahão ,"R. Benedito de Carvalho Filho, 12 ",Jardim Aeroporto III ,(11) 4727-7373 ,287
+444, UP Universidade Braz Cubas," Av. Prefeito Carlos Ferreira Lopes , 1233", Vila Mogilar, (11) 4791-8027,287
+445, E.M. João Antonio Batalha," Estrada Municipal , 118", Jundiapeba, (11) 4727-2227,287
+446, C.M. Dra. Cempre Ruth Cardoso," Travessa Dois, 28", Jardim Layr,(11) 4723-2161  ,287
+447, Centro Educacional Sesi Nº 413," R. Valmet, 171", Braz Cubas,(11) 4723-6918,287
+448, C.M. Cempre Oswaldo Regino Ornellas," R. Benedita Pereira Franco, 2801",Jundiapeba ,(11) 4721-3645  ,287
+449, E.M. Dr. Isidoro Boucault," R. José Aires Gama , 25", Cj. Hab. Brás Cubas, (11) 4726-6371,287
+450, E.M. Dr. Álvaro de Campos Carneiro," R. Pedro Paulo dos S, 855", Jundiapeba, (11) 4722-7965,287
+451, E.M. Dr. Luiz Beraldo de Miranda," Av. Pref. Maurílio de S. L. Filho , 1851", Parque Olímpico, (11) 4721-3636,287
+452, E.M. Profª.­Wanda de Almeida Trandafilov," Av. Ricieri Bertaiolli , 300", Parque São Martinho, (11) 4721-9030,287
+454, UP Universidade Braz Cubas," Av. Prefeito Carlos Ferreira Lopes , 1233", Vila Mogilar, (11) 4791-8027,287
+455, C.M. Dra. Cempre Ruth Cardoso," Travessa Dois, 28", Jardim Layr,(11) 4723-2161  ,287
+456, C.M. Cempre Prof. Sérgio Morett,"R. José Pereira, 2978",Jundiapeba ,(11) 4738-1616,287
+457,C.M. Cempre Profª. Lourdes Lopes Romeiro Iannuzzi ,"R. Benedito dos Santos, 930 ",Jundiapeba ,(11) 4721-2971 ,287
+458, C.M. Cempre Vereador Ivan Nunes Siqueira," Av. Kaoru Hiramatsu, 2025", Braz Cubas,(11) 4796-6009,287
+459, E.M. Eng. Claudio Abrahão," R. Benedito de Carvalho Filho, 12", Jardim Aeroporto III,(11) 4727-7373,287
+36, E.M. MONTEIRO LOBATO," R. Abel José da Silva , 305", Ponte Grande, (11) 4790-4601,319
+37, E.M. MONTEIRO LOBATO," R. Abel José da Silva , 305", Ponte Grande, (11) 4790-4601,319
+38, E.M. MONTEIRO LOBATO," R. Abel José da Silva , 305", Ponte Grande, (11) 4790-4601,319
+39, E.M. MONTEIRO LOBATO," R. Abel José da Silva , 305", Ponte Grande, (11) 4790-4601,319
+40, E.M. MONTEIRO LOBATO," R. Abel José da Silva , 305", Ponte Grande, (11) 4790-4601,319
+41, E.E. PROFª. IRACEMA BRASIL DE SIQUEIRA," R. Manoel Margarido , 41", Ponte Grande, (11) 4790-3648,319
+42, E.E. PROFª. IRACEMA BRASIL DE SIQUEIRA," R. Manoel Margarido , 41", Ponte Grande, (11) 4790-3648,319
+43, E.E. PROFª. IRACEMA BRASIL DE SIQUEIRA," R. Manoel Margarido , 41", Ponte Grande, (11) 4790-3648,319
+44, E.E. PROFª. MARIA RODRIGUES GONÇALVES," R. Pedro Álvarez Cabral , s/nº", Jardim Rodeio, (11) 4790-2075,319
+45, E.E. PROFª. MARIA RODRIGUES GONÇALVES," R. Pedro Álvarez Cabral , s/nº", Jardim Rodeio, (11) 4790-2075,319
+46, E.E. PROFª. MARIA RODRIGUES GONÇALVES," R. Pedro Álvarez Cabral , s/nº", Jardim Rodeio, (11) 4790-2075,319
+47, E.E. PROFª. MARIA RODRIGUES GONÇALVES," R. Pedro Álvarez Cabral , s/nº", Jardim Rodeio, (11) 4790-2075,319
+48, E.E. PROF. JOSÉ AYUMAR GONÇALVES DE MIRANDA," Est. Taboão Lambari , 1010", Itapeti, (11) 4727-5410,319
+49, E.M. PROFª. WILMA DE ALMEIDA RODRIGUES," Est. Taboão Lambari , s/n° Km 18", Taboão, (11) 4727-7570,319
+50, E.E. FRANCISCO DE SOUZA MELLO," R. Aurora , 180", Botujuru, (11) 4792-7166,319
+51, E.E. FRANCISCO DE SOUZA MELLO," R. Aurora , 180", Botujuru, (11) 4792-7166,319
+52, E.E. FRANCISCO DE SOUZA MELLO," R. Aurora , 180", Botujuru, (11) 4792-7166,319
+53, E.E. PROF. ARISTÓTELES DE ANDRADE," R. Antonio Alabarce Lopes , s/nº", Sabaúna, (11) 4761-9166,319
+54, E.E. PROF. ARISTÓTELES DE ANDRADE," R. Antonio Alabarce Lopes , s/nº", Sabaúna, (11) 4761-9166,319
+55, E.E. PROF. ARISTÓTELES DE ANDRADE," R. Antonio Alabarce Lopes , s/nº", Sabaúna, (11) 4761-9166,319
+56, E.E. SEBASTIÃO DE CASTRO," Av. Ricieri José Marcatto , 600", Vila Suíssa, (11) 4761-8425,319
+57, E.E. SEBASTIÃO DE CASTRO," Av. Ricieri José Marcatto , 600", Vila Suíssa, (11) 4761-8425,319
+58, E.E. SEBASTIÃO DE CASTRO," Av. Ricieri José Marcatto , 600", Vila Suíssa, (11) 4761-8425,319
+59, E.E. SEBASTIÃO DE CASTRO," Av. Ricieri José Marcatto , 600", Vila Suíssa, (11) 4761-8425,319
+60, E.E. SEBASTIÃO DE CASTRO," Av. Ricieri José Marcatto , 600", Vila Suíssa, (11) 4761-8425,319
+61, E.E. SEBASTIÃO DE CASTRO," Av. Ricieri José Marcatto , 600", Vila Suíssa, (11) 4761-8425,319
+62, E.E. SEBASTIÃO DE CASTRO," Av. Ricieri José Marcatto , 600", Vila Suíssa, (11) 4761-8425,319
+63, E.M. MARIA COELI BEZERRA DE MELO," R. Benedito de Oliveira , 100", Jardim Bela Vista, (11) 4790-3771,319
+64, E.M. MARIA COELI BEZERRA DE MELO," R. Benedito de Oliveira , 100", Jardim Bela Vista, (11) 4790-3771,319
+65, E.M. MARIA COELI BEZERRA DE MELO," R. Benedito de Oliveira , 100", Jardim Bela Vista, (11) 4790-3771,319
+66, E.M. MARIA COELI BEZERRA DE MELO," R. Benedito de Oliveira , 100", Jardim Bela Vista, (11) 4790-3771,319
+67, E.M. DES. ARMINDO FREIRE MARMORA," R. Aloisio de Azevedo , 109", Jardim das Bandeiras, (11) 4792-7797,319
+68, E.M. DES. ARMINDO FREIRE MARMORA," R. Aloisio de Azevedo , 109", Jardim das Bandeiras, (11) 4792-7797,319
+69, E.M. DES. ARMINDO FREIRE MARMORA," R. Aloisio de Azevedo , 109", Jardim das Bandeiras, (11) 4792-7797,319
+70, E.M. DES. ARMINDO FREIRE MARMORA," R. Aloisio de Azevedo , 109", Jardim das Bandeiras, (11) 4792-7797,319
+71, E.M. DES. ARMINDO FREIRE MARMORA," R. Aloisio de Azevedo , 109", Jardim das Bandeiras, (11) 4792-7797,319
+72, E.E. DR. SENTARO TAKAOKA," Estr. Mogi Salesópolis , Km 8", Cocuera, (11) 4792-2244,319
+73, E.E. DR. SENTARO TAKAOKA," Estr. Mogi Salesópolis , Km 8", Cocuera, (11) 4792-2244,319
+74, E.E. DR. SENTARO TAKAOKA," Estr. Mogi Salesópolis , Km 8", Cocuera, (11) 4792-2244,319
+75, E.E. DR. SENTARO TAKAOKA," Estr. Mogi Salesópolis , Km 8", Cocuera, (11) 4792-2244,319
+79, E.E. FRANCISCO DE SOUZA MELLO," R. Aurora , 180", Botujuru, (11) 4792-7166,319
+81, E.M. MONTEIRO LOBATO," R. Abel José da Silva , 305", Ponte Grande, (11) 4790-4601,319
+82, E.E. SEBASTIÃO DE CASTRO," Av. Ricieri José Marcatto , 600", Vila Suíssa, (11) 4761-8425,319
+83, E.E. PROFª. IRACEMA BRASIL DE SIQUEIRA," R. Manoel Margarido , 41", Ponte Grande, (11) 4790-3648,319
+84, E.E. PROFª. MARIA RODRIGUES GONÇALVES," R. Pedro Álvarez Cabral , s/nº", Jardim Rodeio, (11) 4790-2075,319
+85, E.M. DES. ARMINDO FREIRE MARMORA," R. Aloisio de Azevedo , 109", Jardim das Bandeiras, (11) 4792-7797,319
+92, E.E. PROFª. MARIA RODRIGUES GONÇALVES," R. Pedro Álvarez Cabral , s/nº", Jardim Rodeio, (11) 4790-2075,319
+93, E.M. MONTEIRO LOBATO," R. Abel José da Silva , 305", Ponte Grande, (11) 4790-4601,319
+96, E.E. PROF. JOSÉ AYUMAR GONÇALVES DE MIRANDA," Est. Taboão Lambari , 1010", Itapeti, (11) 4727-5410,319
+99, E.E. SEBASTIÃO DE CASTRO," Av. Ricieri José Marcatto , 600", Vila Suíssa, (11) 4761-8425,319
+100, E.E. PROF. ARISTÓTELES DE ANDRADE," R. Antonio Alabarce Lopes , s/nº", Sabaúna, (11) 4761-9166,319
+101, E.E. DR. SENTARO TAKAOKA," Estr. Mogi Salesópolis , Km 8", Cocuera, (11) 4792-2244,319
+102, E.M. DES. ARMINDO FREIRE MARMORA," R. Aloisio de Azevedo , 109", Jardim das Bandeiras, (11) 4792-7797,319
+109,NAO LOCALIZADO,"Sem Endereço, s/n",Sem Bairro,Sem Numero,319
+110,EMEF. BENEDITO PEREIRA DE PAULA ,"Estrada do Beija Flor, s/n",Beija Flor,(11) 4722-4166,319
+111, E.E. FRANCISCO DE SOUZA MELLO," R. Aurora , 180", Botujuru, (11) 4792-7166,319
+113, E.E. PROFª. MARIA RODRIGUES GONÇALVES," R. Pedro Álvarez Cabral , s/nº", Jardim Rodeio, (11) 4790-2075,319
+114, E.M. MARIA COELI BEZERRA DE MELO," R. Benedito de Oliveira , 100", Jardim Bela Vista, (11) 4790-3771,319
+115, E.M. PROFª. WILMA DE ALMEIDA RODRIGUES," Est. Taboão Lambari , s/n° Km 18", Taboão, (11) 4727-7570,319
+118, E.M.E.F. CLEONICE FELICIANO," R. Guaratinga , 400", Jardim Piatã, (11) 4699-9100,319
+119, E.M. PROFª. SONIA BRASIL DE SIQUEIRA ANDREUCCI," R. Fátima , 62", Jardim Margarida, (11) 4645-2319,319
+120, E.M. PROFª. SONIA BRASIL DE SIQUEIRA ANDREUCCI," R. Fátima , 62", Jardim Margarida, (11) 4645-2319,319
+122, E.M.E.F. CLEONICE FELICIANO," R. Guaratinga , 400", Jardim Piatã, (11) 4699-9100,319
+123, E.M. PROFª. SONIA BRASIL DE SIQUEIRA ANDREUCCI," R. Fátima , 62", Jardim Margarida, (11) 4645-2319,319
+124, E.E. PROFª. DORA PERETTI DE OLIVEIRA," R. Libero Badaró , 08", Cezar de Souza, (11) 4761-6566,319
+125, E.E. PROFª. DORA PERETTI DE OLIVEIRA," R. Libero Badaró , 08", Cezar de Souza, (11) 4761-6566,319
+126, E.E. PROFª. MARIA RODRIGUES GONÇALVES," R. Pedro Álvarez Cabral , s/nº", Jardim Rodeio, (11) 4790-2075,319
+128, E.M. CENIRA ARAUJO PEREIRA," R. São Paulo , 250", Chácara Guanabara, (11) 4695-2233,319
+129, E.E. FRANCISCO DE SOUZA MELLO," R. Aurora , 180", Botujuru, (11) 4792-7166,319
+130, E.M. PROFª. SONIA BRASIL DE SIQUEIRA ANDREUCCI," R. Fátima , 62", Jardim Margarida, (11) 4645-2319,319
+136, E.M.E.F. CLEONICE FELICIANO," R. Guaratinga , 400", Jardim Piatã, (11) 4699-9100,319
+137, E.M. PROFª. SONIA BRASIL DE SIQUEIRA ANDREUCCI," R. Fátima , 62", Jardim Margarida, (11) 4645-2319,319
+138, E.E. PROFª. MARIA RODRIGUES GONÇALVES," R. Pedro Álvarez Cabral , s/nº", Jardim Rodeio, (11) 4790-2075,319
+139, E.E. SEBASTIÃO DE CASTRO," Av. Ricieri José Marcatto , 600", Vila Suíssa, (11) 4761-8425,319
+140, E.E. PROFª. IRACEMA BRASIL DE SIQUEIRA," R. Manoel Margarido , 41", Ponte Grande, (11) 4790-3648,319
+142, E.E. PROFª. DORA PERETTI DE OLIVEIRA," R. Libero Badaró , 08", Cezar de Souza, (11) 4761-6566,319
+146, E.E. FRANCISCO DE SOUZA MELLO," R. Aurora , 180", Botujuru, (11) 4792-7166,319
+147, E.E. PROFª. MARIA RODRIGUES GONÇALVES," R. Pedro Álvarez Cabral , s/nº", Jardim Rodeio, (11) 4790-2075,319
+148, E.E. PROFª. IRACEMA BRASIL DE SIQUEIRA," R. Manoel Margarido , 41", Ponte Grande, (11) 4790-3648,319
+149, E.M. MONTEIRO LOBATO," R. Abel José da Silva , 305", Ponte Grande, (11) 4790-4601,319
+151, E.E. DR. SENTARO TAKAOKA," Estr. Mogi Salesópolis , Km 8", Cocuera, (11) 4792-2244,319
+152, E.M. MARIA COELI BEZERRA DE MELO," R. Benedito de Oliveira , 100", Jardim Bela Vista, (11) 4790-3771,319
+153, E.E. SEBASTIÃO DE CASTRO," Av. Ricieri José Marcatto , 600", Vila Suíssa, (11) 4761-8425,319
+154, E.E. PROF. ARISTÓTELES DE ANDRADE," R. Antonio Alabarce Lopes , s/nº", Sabaúna, (11) 4761-9166,319
+159, E.E. PROF. JOSÉ AYUMAR GONÇALVES DE MIRANDA," Est. Taboão Lambari , 1010", Itapeti, (11) 4727-5410,319
+168, E.E. PROFª. MARIA RODRIGUES GONÇALVES," R. Pedro Álvarez Cabral , s/nº", Jardim Rodeio, (11) 4790-2075,319
+169, E.E. PROFª. DORA PERETTI DE OLIVEIRA," R. Libero Badaró , 08", Cezar de Souza, (11) 4761-6566,319
+170, E.M. PROFª. SONIA BRASIL DE SIQUEIRA ANDREUCCI," R. Fátima , 62", Jardim Margarida, (11) 4645-2319,319
+171, E.E. FRANCISCO DE SOUZA MELLO," R. Aurora , 180", Botujuru, (11) 4792-7166,319
+173, E.M. MARIA COELI BEZERRA DE MELO," R. Benedito de Oliveira , 100", Jardim Bela Vista, (11) 4790-3771,319
+174, E.M. CENIRA ARAUJO PEREIRA," R. São Paulo , 250", Chácara Guanabara, (11) 4695-2233,319
+176, COLÉGIO BOULEVARD ARUÃ," Av. Pres. General Dutra , 100", Aruã, (11) 3458-9038,319
+177, E.M.E.F. CLEONICE FELICIANO," R. Guaratinga , 400", Jardim Piatã, (11) 4699-9100,319
+182, E.M. PROFª. WILMA DE ALMEIDA RODRIGUES," Est. Taboão Lambari , s/n° Km 18", Taboão, (11) 4727-7570,319
+183, E.E. PROFª. DORA PERETTI DE OLIVEIRA," R. Libero Badaró , 08", Cezar de Souza, (11) 4761-6566,319
+184, E.M. MARIA COELI BEZERRA DE MELO," R. Benedito de Oliveira , 100", Jardim Bela Vista, (11) 4790-3771,319
+185, E.E. FRANCISCO DE SOUZA MELLO," R. Aurora , 180", Botujuru, (11) 4792-7166,319
+186, E.M. PROFª. GUIOMAR PINHEIRO FRANCO," R. Maria Giacco Ramos , 199", Jardim São Pedro, (11) 4739-3141,319
+187, E.M. MONTEIRO LOBATO," R. Abel José da Silva , 305", Ponte Grande, (11) 4790-4601,319
+188, E.M. NOEMIA REAL FIDALGO," Av. Ezelino da Cunha Glória , 285", Rodeio, (11) 4699-1050,319
+189, CEMPRE PROF. JOSÉ LIMONGI SOBRINHO," R. Felipe Sawaya , 500", Botujuru, (11) 4727-1518,319
+189,CEMPRE PROF. JOSÉ LIMONGI SOBRINHO,"R. Felipe Sawaya , 500",Botujuru,(11) 4727-1518,319
+190, E.M. PROFª. CYNIRA OLIVEIRA DE CASTRO," R. Antônio Máximo , 301", Vila Suíssa, (11) 4792-2871,319
+191, E.E. ALZIRA FERNANDES SCUNGISQUI," R. Joaquim Rama Forte , 115", Jardim Araci, (11) 4790-2262,319
+193, E.M. HELIO DOS SANTOS NEVES," R. Maurício José de Oliveira , 365", Res. Novo Horizonte, (11) 4755-5012,319
+196, E.E. DR. SENTARO TAKAOKA," Estr. Mogi Salesópolis , Km 8", Cocuera, (11) 4792-2244,319
+197, COLÉGIO BOULEVARD ARUÃ," Av. Pres. General Dutra , 100", Aruã, (11) 3458-9038,319
+198, E.M. MARIA COELI BEZERRA DE MELO," R. Benedito de Oliveira , 100", Jardim Bela Vista, (11) 4790-3771,319
+202, E.E. PROFª. DORA PERETTI DE OLIVEIRA," R. Libero Badaró , 08", Cezar de Souza, (11) 4761-6566,319
+203, E.M. NOEMIA REAL FIDALGO," Av. Ezelino da Cunha Glória , 285", Rodeio, (11) 4699-1050,319
+204, E.M. PROFª. GUIOMAR PINHEIRO FRANCO," R. Maria Giacco Ramos , 199", Jardim São Pedro, (11) 4739-3141,319
+205, E.M. NOEMIA REAL FIDALGO," Av. Ezelino da Cunha Glória , 285", Rodeio, (11) 4699-1050,319
+206, E.M. PROFª. CYNIRA OLIVEIRA DE CASTRO," R. Antônio Máximo , 301", Vila Suíssa, (11) 4792-2871,319
+207, E.E. PROFª. DORA PERETTI DE OLIVEIRA," R. Libero Badaró , 08", Cezar de Souza, (11) 4761-6566,319
+208, E.E. PROF. ARISTÓTELES DE ANDRADE," R. Antonio Alabarce Lopes , s/nº", Sabaúna, (11) 4761-9166,319
+209, E.E. FRANCISCO DE SOUZA MELLO," R. Aurora , 180", Botujuru, (11) 4792-7166,319
+213, CEMPRE PROF. JOSÉ LIMONGI SOBRINHO," R. Felipe Sawaya , 500", Botujuru, (11) 4727-1518,319
+214, E.E. DAGOBERTO JOSE MACHADO - CDHU," R. Antonio Boz Vidal , s/n", Bela Vista, (11) 4739-3310,319
+217, E.M. ANTONIO PEDRO RIBEIRO," Est. Municipal Itapeti/Lambari , 9099", Moralogia, (11) 4790-6100,319
+218, E.M. PROFª. GUIOMAR PINHEIRO FRANCO," R. Maria Giacco Ramos , 199", Jardim São Pedro, (11) 4739-3141,319
+219, E.M. MONTEIRO LOBATO," R. Abel José da Silva , 305", Ponte Grande, (11) 4790-4601,319
+224, E.M. NOEMIA REAL FIDALGO," Av. Ezelino da Cunha Glória , 285", Rodeio, (11) 4699-1050,319
+225, COLÉGIO BOULEVARD ARUÃ," Av. Pres. General Dutra , 100", Aruã, (11) 3458-9038,319
+226, E.E. PROFª. DORA PERETTI DE OLIVEIRA," R. Libero Badaró , 08", Cezar de Souza, (11) 4761-6566,319
+227, E.M. PROFª. CYNIRA OLIVEIRA DE CASTRO," R. Antônio Máximo , 301", Vila Suíssa, (11) 4792-2871,319
+228, E.M.E.F. CLEONICE FELICIANO," R. Guaratinga , 400", Jardim Piatã, (11) 4699-9100,319
+229, E.E. ALZIRA FERNANDES SCUNGISQUI," R. Joaquim Rama Forte , 115", Jardim Araci, (11) 4790-2262,319
+230, E.M. HELIO DOS SANTOS NEVES," R. Maurício José de Oliveira , 365", Res. Novo Horizonte, (11) 4755-5012,319
+235, E.E. DAGOBERTO JOSE MACHADO - CDHU," R. Antonio Boz Vidal , s/n", Bela Vista, (11) 4739-3310,319
+236, E.M. NOEMIA REAL FIDALGO," Av. Ezelino da Cunha Glória , 285", Rodeio, (11) 4699-1050,319
+237, E.E. PROFª. DORA PERETTI DE OLIVEIRA," R. Libero Badaró , 08", Cezar de Souza, (11) 4761-6566,319
+240, E.E. DAGOBERTO JOSE MACHADO - CDHU," R. Antonio Boz Vidal , s/n", Bela Vista, (11) 4739-3310,319
+241, E.E. ALZIRA FERNANDES SCUNGISQUI," R. Joaquim Rama Forte , 115", Jardim Araci, (11) 4790-2262,319
+242, CEMPRE PROF. JOSÉ LIMONGI SOBRINHO," R. Felipe Sawaya , 500", Botujuru, (11) 4727-1518,319
+243, E.M. NOEMIA REAL FIDALGO," Av. Ezelino da Cunha Glória , 285", Rodeio, (11) 4699-1050,319
+244, E.M. PROFª. CYNIRA OLIVEIRA DE CASTRO," R. Antônio Máximo , 301", Vila Suíssa, (11) 4792-2871,319
+245, E.M. PROFª. GUIOMAR PINHEIRO FRANCO," R. Maria Giacco Ramos , 199", Jardim São Pedro, (11) 4739-3141,319
+246, E.M. MONTEIRO LOBATO," R. Abel José da Silva , 305", Ponte Grande, (11) 4790-4601,319
+248, E.E. FRANCISCO DE SOUZA MELLO," R. Aurora , 180", Botujuru, (11) 4792-7166,319
+250, E.E. PROFª. DORA PERETTI DE OLIVEIRA," R. Libero Badaró , 08", Cezar de Souza, (11) 4761-6566,319
+253, COLÉGIO BOULEVARD ARUÃ," Av. Pres. General Dutra , 100", Aruã, (11) 3458-9038,319
+255, E.M. IRACEMA BRASIL DE SIQUEIRA," Av. Ricieri José Marcatto , 686", Vila Suíssa, (11) 792-7625,319
+257, E.E. PROF. ARISTÓTELES DE ANDRADE," R. Antonio Alabarce Lopes , s/nº", Sabaúna, (11) 4761-9166,319
+259, E.M. PROFª. GUIOMAR PINHEIRO FRANCO," R. Maria Giacco Ramos , 199", Jardim São Pedro, (11) 4739-3141,319
+260, E.M. NOEMIA REAL FIDALGO," Av. Ezelino da Cunha Glória , 285", Rodeio, (11) 4699-1050,319
+261, E.M. IRACEMA BRASIL DE SIQUEIRA," Av. Ricieri José Marcatto , 686", Vila Suíssa, (11) 792-7625,319
+262, E.M.E.F. CLEONICE FELICIANO," R. Guaratinga , 400", Jardim Piatã, (11) 4699-9100,319
+263, E.E. FRANCISCO DE SOUZA MELLO," R. Aurora , 180", Botujuru, (11) 4792-7166,319
+265, E.M. PROFª. GUIOMAR PINHEIRO FRANCO," R. Maria Giacco Ramos , 199", Jardim São Pedro, (11) 4739-3141,319
+266, E.M. PROFª. CYNIRA OLIVEIRA DE CASTRO," R. Antônio Máximo , 301", Vila Suíssa, (11) 4792-2871,319
+268, E.E. DAGOBERTO JOSE MACHADO - CDHU," R. Antonio Boz Vidal , s/n", Bela Vista, (11) 4739-3310,319
+269, E.M. NOEMIA REAL FIDALGO," Av. Ezelino da Cunha Glória , 285", Rodeio, (11) 4699-1050,319
+270, CEMPRE PROF. JOSÉ LIMONGI SOBRINHO," R. Felipe Sawaya , 500", Botujuru, (11) 4727-1518,319
+271, E.M. DES. ARMINDO FREIRE MARMORA," R. Aloisio de Azevedo , 109", Jardim das Bandeiras, (11) 4792-7797,319
+272, E.M. DR. MILTON CRUZ," R. Antenor Souza Mello , 116", Jardim Maricá, (11) 4790-4632,319
+273, E.E. EURYCLIDES DE JESUS ZERBINI," R. Laura , 15", Jardim Margarida, (11) 4645-7836,319
+278, E.M. IRACEMA BRASIL DE SIQUEIRA," Av. Ricieri José Marcatto , 686", Vila Suíssa, (11) 792-7625,319
+279, COLÉGIO BOULEVARD ARUÃ," Av. Pres. General Dutra , 100", Aruã, (11) 3458-9038,319
+280, E.M. MONTEIRO LOBATO," R. Abel José da Silva , 305", Ponte Grande, (11) 4790-4601,319
+281, E.E. DR. SENTARO TAKAOKA," Estr. Mogi Salesópolis , Km 8", Cocuera, (11) 4792-2244,319
+282, E.E. PROF. JOSÉ AYUMAR GONÇALVES DE MIRANDA," Est. Taboão Lambari , 1010", Itapeti, (11) 4727-5410,319
+283, E.M. PROFª. GUIOMAR PINHEIRO FRANCO," R. Maria Giacco Ramos , 199", Jardim São Pedro, (11) 4739-3141,319
+285, E.M. DES. ARMINDO FREIRE MARMORA," R. Aloisio de Azevedo , 109", Jardim das Bandeiras, (11) 4792-7797,319
+286, E.E. EURYCLIDES DE JESUS ZERBINI," R. Laura , 15", Jardim Margarida, (11) 4645-7836,319
+287, E.M. DR. MILTON CRUZ," R. Antenor Souza Mello , 116", Jardim Maricá, (11) 4790-4632,319
+290, E.M. IRACEMA BRASIL DE SIQUEIRA," Av. Ricieri José Marcatto , 686", Vila Suíssa, (11) 792-7625,319
+291, E.M. CENIRA ARAUJO PEREIRA," R. São Paulo , 250", Chácara Guanabara, (11) 4695-2233,319
+293, E.M. ANTONIO PEDRO RIBEIRO," Est. Municipal Itapeti/Lambari , 9099", Moralogia, (11) 4790-6100,319
+296, E.M. PROFª. GUIOMAR PINHEIRO FRANCO," R. Maria Giacco Ramos , 199", Jardim São Pedro, (11) 4739-3141,319
+298, E.M. HELIO DOS SANTOS NEVES," R. Maurício José de Oliveira , 365", Res. Novo Horizonte, (11) 4755-5012,319
+300, E.E. FRANCISCO DE SOUZA MELLO," R. Aurora , 180", Botujuru, (11) 4792-7166,319
+301,CENTRO DE DETENÇÃO PROVISÓRIA – CDP ,"Sem Endereço, s/n",CDP,Sem Numero,319
+302, E.E. DAGOBERTO JOSE MACHADO - CDHU," R. Antonio Boz Vidal , s/n", Bela Vista, (11) 4739-3310,319
+305, E.M. NOEMIA REAL FIDALGO," Av. Ezelino da Cunha Glória , 285", Rodeio, (11) 4699-1050,319
+308, COLÉGIO BOULEVARD ARUÃ," Av. Pres. General Dutra , 100", Aruã, (11) 3458-9038,319
+309, CEMPRE PROF. JOSÉ LIMONGI SOBRINHO," R. Felipe Sawaya , 500", Botujuru, (11) 4727-1518,319
+310, E.M. PROFª. CYNIRA OLIVEIRA DE CASTRO," R. Antônio Máximo , 301", Vila Suíssa, (11) 4792-2871,319
+311, E.E. DR. SENTARO TAKAOKA," Estr. Mogi Salesópolis , Km 8", Cocuera, (11) 4792-2244,319
+312, E.M. IRACEMA BRASIL DE SIQUEIRA," Av. Ricieri José Marcatto , 686", Vila Suíssa, (11) 792-7625,319
+313, E.M. PROFª. WILMA DE ALMEIDA RODRIGUES," Est. Taboão Lambari , s/n° Km 18", Taboão, (11) 4727-7570,319
+314, E.M.E.F. CLEONICE FELICIANO," R. Guaratinga , 400", Jardim Piatã, (11) 4699-9100,319
+315, E.E. DAGOBERTO JOSE MACHADO - CDHU," R. Antonio Boz Vidal , s/n", Bela Vista, (11) 4739-3310,319
+317, E.M. DES. ARMINDO FREIRE MARMORA," R. Aloisio de Azevedo , 109", Jardim das Bandeiras, (11) 4792-7797,319
+318, E.E. ALZIRA FERNANDES SCUNGISQUI," R. Joaquim Rama Forte , 115", Jardim Araci, (11) 4790-2262,319
+319, E.E. EURYCLIDES DE JESUS ZERBINI," R. Laura , 15", Jardim Margarida, (11) 4645-7836,319
+323, COLÉGIO BOULEVARD ARUÃ," Av. Pres. General Dutra , 100", Aruã, (11) 3458-9038,319
+325, E.M. IRACEMA BRASIL DE SIQUEIRA," Av. Ricieri José Marcatto , 686", Vila Suíssa, (11) 792-7625,319
+326, CEMPRE PROF. JOSÉ LIMONGI SOBRINHO," R. Felipe Sawaya , 500", Botujuru, (11) 4727-1518,319
+327, E.E. DAGOBERTO JOSE MACHADO - CDHU," R. Antonio Boz Vidal , s/n", Bela Vista, (11) 4739-3310,319
+330, E.M. IRACEMA BRASIL DE SIQUEIRA," Av. Ricieri José Marcatto , 686", Vila Suíssa, (11) 792-7625,319
+332, COLÉGIO BOULEVARD ARUÃ," Av. Pres. General Dutra , 100", Aruã, (11) 3458-9038,319
+334, E.M. DES. ARMINDO FREIRE MARMORA," R. Aloisio de Azevedo , 109", Jardim das Bandeiras, (11) 4792-7797,319
+335, E.E. DAGOBERTO JOSE MACHADO - CDHU," R. Antonio Boz Vidal , s/n", Bela Vista, (11) 4739-3310,319
+336, CEMPRE PROF. JOSÉ LIMONGI SOBRINHO," R. Felipe Sawaya , 500", Botujuru, (11) 4727-1518,319
+339, E.M. HELIO DOS SANTOS NEVES," R. Maurício José de Oliveira , 365", Res. Novo Horizonte, (11) 4755-5012,319
+340, COLÉGIO BOULEVARD ARUÃ," Av. Pres. General Dutra , 100", Aruã, (11) 3458-9038,319
+341, E.M. DR. MILTON CRUZ," R. Antenor Souza Mello , 116", Jardim Maricá, (11) 4790-4632,319
+342, E.M. PROFª. CYNIRA OLIVEIRA DE CASTRO," R. Antônio Máximo , 301", Vila Suíssa, (11) 4792-2871,319
+343, E.E. DAGOBERTO JOSE MACHADO - CDHU," R. Antonio Boz Vidal , s/n", Bela Vista, (11) 4739-3310,319
+344, E.M. DES. ARMINDO FREIRE MARMORA," R. Aloisio de Azevedo , 109", Jardim das Bandeiras, (11) 4792-7797,319
+345,E.M. ETELVINA CAFARO SALUSTIANO ,"R. Quatro, 71 ",Cj. Hab. Jefferson ,(11)4792-8640,319
+346,CEMPRE PROF. JOSÉ LIMONGI SOBRINHO," R. Felipe Sawaya , 500", Botujuru, (11) 4727-1518,319
+347,E.M. Lourdes Maria Prado Aguiar ,"R. Matathias Nogueira Novaes, 10 ",Jardim Esperança,(11) 4727-1129 ,319
+351, E.M. ANTONIO PEDRO RIBEIRO," Est. Municipal Itapeti/Lambari , 9099", Moralogia, (11) 4790-6100,319
+355, E.M. CENIRA ARAUJO PEREIRA," R. São Paulo , 250", Chácara Guanabara, (11) 4695-2233,319
+356, COLÉGIO BOULEVARD ARUÃ," Av. Pres. General Dutra , 100", Aruã, (11) 3458-9038,319
+357, CEMPRE PROF. JOSÉ LIMONGI SOBRINHO," R. Felipe Sawaya , 500", Botujuru, (11) 4727-1518,319
+358, E.E. DAGOBERTO JOSE MACHADO - CDHU," R. Antonio Boz Vidal , s/n", Bela Vista, (11) 4739-3310,319
+359, E.M. PROFª. GUIOMAR PINHEIRO FRANCO," R. Maria Giacco Ramos , 199", Jardim São Pedro, (11) 4739-3141,319
+360, COLÉGIO BOULEVARD ARUÃ," Av. Pres. General Dutra , 100", Aruã, (11) 3458-9038,319
+361, CEMPRE PROF. JOSÉ LIMONGI SOBRINHO," R. Felipe Sawaya , 500", Botujuru, (11) 4727-1518,319
+362, E.M. PROFª. WILMA DE ALMEIDA RODRIGUES," Est. Taboão Lambari , s/n° Km 18", Taboão, (11) 4727-7570,319
+363,E.M.E.F. PROFª EMILIE NEHME AFFONSO,"R. João Mariano de Paula , 385",Vila Horizonte, (11) 4792-2727,319
+365, COLÉGIO BOULEVARD ARUÃ," Av. Pres. General Dutra , 100", Aruã, (11) 3458-9038,319
