@@ -1,4 +1,4 @@
-package Model;
+package org.example.Model;
 
 public class Voto {
     private Sessao Sessao;
@@ -15,7 +15,7 @@ public class Voto {
         return Sessao;
     }
 
-    public void setSessao(Model.Sessao sessao) {
+    public void setSessao(Sessao sessao) {
         Sessao = sessao;
     }
 

@@ -1,8 +1,8 @@
-package Service;
+package org.example.Service;
 
-import Model.Candidato;
-import Model.Sessao;
-import Model.Voto;
+import org.example.Model.Candidato;
+import org.example.Model.Sessao;
+import org.example.Model.Voto;
 
 import java.util.ArrayList;
 import java.util.HashSet;

@@ -1,1 +1,0 @@
-# Elei-esMogiDasCruzes2024

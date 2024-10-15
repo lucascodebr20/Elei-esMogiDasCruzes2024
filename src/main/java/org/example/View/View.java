@@ -1,9 +1,9 @@
-package View;
+package org.example.View;
 
-import Model.Candidato;
-import Model.Sessao;
-import Model.Voto;
-import Service.CandidatoService;
+import org.example.Model.Candidato;
+import org.example.Model.Sessao;
+import org.example.Model.Voto;
+import org.example.Service.CandidatoService;
 
 import java.util.List;
 import java.util.Map;
@@ -77,7 +77,7 @@ public class View {
             Integer votos = entry.getValue();
             System.out.println();
             System.out.println(
-                            "----------------------------" + "\n" +
+                    "----------------------------" + "\n" +
                             " ESCOLA: " + sessao.getColegio() + "\n" +
                             " LOGADOURO: " + sessao.getLogadouro() + "\n" +
                             " BAIRRO: " + sessao.getBairro() + "\n" +

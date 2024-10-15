@@ -1,10 +1,12 @@
-import Model.Candidato;
-import Model.Sessao;
-import Model.Voto;
-import Service.CandidatoService;
-import Service.SessaoService;
-import Util.LeituraDados;
-import View.View;
+package org.example;
+
+import org.example.Model.Candidato;
+import org.example.Model.Sessao;
+import org.example.Model.Voto;
+import org.example.Service.CandidatoService;
+import org.example.Service.SessaoService;
+import org.example.Util.LeituraDados;
+import org.example.View.View;
 
 import java.util.*;
 
@@ -16,7 +18,7 @@ public class Main {
         List<Voto> votos = new ArrayList<>();
         List<Sessao> sessoes = new ArrayList<>();
 
-        LeituraDados leituraDados = new LeituraDados(candidatos,votos,sessoes);
+        LeituraDados leituraDados = new LeituraDados(candidatos, votos, sessoes);
 
         leituraDados.lerDadosCandidato("resultado-votacao-secao-editado.txt");
 
@@ -27,12 +29,11 @@ public class Main {
 
         leituraDados.lerDadosVotos("resultado-votacao-secao-editado.txt");
 
-        SessaoService sessaoService = new SessaoService(candidatos,votos,sessoes);
-        CandidatoService candidatoService = new CandidatoService(candidatos,votos,sessoes);
-        View view = new View(candidatos,votos,sessoes);
+        SessaoService sessaoService = new SessaoService(candidatos, votos, sessoes);
+        CandidatoService candidatoService = new CandidatoService(candidatos, votos, sessoes);
+        View view = new View(candidatos, votos, sessoes);
 
         view.menuPrincipal();
-
 
 
     }
