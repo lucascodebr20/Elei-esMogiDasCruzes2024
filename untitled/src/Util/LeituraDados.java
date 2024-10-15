@@ -52,6 +52,11 @@ public class LeituraDados {
             String pularLinha = bufferedReader.readLine();
             while ((linha = bufferedReader.readLine()) != null) {
                 String[] campoSeparado = linha.split(",");
+
+                for (int i = 0; i < campoSeparado.length; i++) {
+                    campoSeparado[i] = campoSeparado[i].replaceAll("[,\\s]+", " ").trim();
+                }
+
                 Sessao novasessao = new Sessao(campoSeparado[0], campoSeparado[1],
                         campoSeparado[2] + campoSeparado[3],campoSeparado[4],campoSeparado[5],campoSeparado[6]);
                 sessoes.add(novasessao);

@@ -3,23 +3,26 @@ package View;
 import Model.Candidato;
 import Model.Sessao;
 import Model.Voto;
+import Service.CandidatoService;
 
 import java.util.List;
+import java.util.Map;
 import java.util.Scanner;
-import java.util.stream.Collectors;
 
 public class View {
 
-    private List <Candidato> candidatos;
-    private List <Voto> votos;
-    private List <Sessao> sessoes;
+    private List<Candidato> candidatos;
+    private List<Voto> votos;
+    private List<Sessao> sessoes;
 
     public View(List<Candidato> candidatos, List<Voto> votos, List<Sessao> sessoes) {
         this.candidatos = candidatos;
         this.votos = votos;
         this.sessoes = sessoes;
+
     }
-    public void menuPrincipal () {
+
+    public void menuPrincipal() {
         Scanner scanner = new Scanner(System.in);
         int opcao = 0;
 
@@ -54,22 +57,56 @@ public class View {
     }
 
     public void analisarCandidato() {
+        CandidatoService candidatoService = new CandidatoService(candidatos, votos, sessoes);
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite o numero do candidato: ");
         String numeroCandidato = sc.nextLine();
 
-        Candidato candidatoAtutal = candidatos.stream()
-                .filter(c -> c.getNumeroCandidato().equalsIgnoreCase(numeroCandidato))
-                .findFirst()
-                .orElse(null);
+        Map<Sessao, Integer> sessaoIntegerMap = candidatoService.colegioMaisVotadasDeUmCandidato(numeroCandidato);
 
-        System.out.println("Nome candidato: " + candidatoAtutal.getNome());
-        System.out.println("Numero Model.CandidatoService: " + candidatoAtutal.getNumeroCandidato());
-        System.out.println("Total de votos: " + candidatoAtutal.getTotalVotos());
-        System.out.println("");
-        System.out.println(candidatoAtutal.getTop5Locais());
-        System.out.println(candidatoAtutal.getTop5Bairros());
-        System.out.println(candidatoAtutal.listarCandidatosProximosNosTop5Bairros(candidatos));
+        System.out.println();
+        System.out.println("SESSÂO MAIS VOTADAS");
+
+        int contador = 0;
+
+        for (Map.Entry<Sessao, Integer> entry : sessaoIntegerMap.entrySet()) {
+            if (contador == 5) {
+                break;
+            }
+            Sessao sessao = entry.getKey();
+            Integer votos = entry.getValue();
+            System.out.println();
+            System.out.println(
+                            "----------------------------" + "\n" +
+                            " ESCOLA: " + sessao.getColegio() + "\n" +
+                            " LOGADOURO: " + sessao.getLogadouro() + "\n" +
+                            " BAIRRO: " + sessao.getBairro() + "\n" +
+                            " TOTAL DE VOTOS: " + votos);
+            contador++;
+        }
+
+        System.out.println();
+
+        Map<Sessao, Integer> bairrosMaisVotado = candidatoService.bairrosMaisVotadasDeUmCandidato(numeroCandidato);
+
+        System.out.println("BAIRRO MAIS VOTADOS!");
+
+        int contador2 = 0;
+
+        for (Map.Entry<Sessao, Integer> entry : bairrosMaisVotado.entrySet()) {
+            if (contador2 == 10) {
+                break;
+            }
+            Sessao sessao = entry.getKey();
+            Integer votos = entry.getValue();
+            System.out.println(
+                    "----------------------------" + "\n" +
+                            " BAIRRO: " + sessao.getBairro() + "\n" +
+                            " TOTAL DE VOTOS: " + votos);
+            contador2++;
+        }
+
+        System.out.println();
 
     }
 
@@ -79,61 +116,47 @@ public class View {
         String sessao = sc.nextLine();
         System.out.println("Digite o numero da Zona Eleitoral ");
         String zonaEleitoral = sc.nextLine();
-
-        try {
-            List<Candidato> top5Candidatos = Candidato.getTop5CandidatosMaisVotadosNoColegio(sessao, zonaEleitoral,sessoes,candidatos);
-
-            System.out.println("Top 5 Candidatos mais votados no colégio associado:");
-            top5Candidatos.forEach(candidato -> {
-                int totalVotos = candidato.getTotalVotosPorSessoes(
-                        sessoes.stream().filter(s -> s.getColegio().equals(
-                                        sessoes.stream()
-                                                .filter(s1 -> s1.getSessao().equals(sessao) && s1.getZonaEleitoral().equals(zonaEleitoral))
-                                                .findFirst().get().getColegio()))
-                                .collect(Collectors.toList()));
-                System.out.println(candidato + " - Total de Votos: " + totalVotos);
-            });
-
-        } catch (IllegalArgumentException e) {
-            System.out.println(e.getMessage());
-        }
-
     }
 
 
     public void analisarRegiao() {
+        CandidatoService candidatoService = new CandidatoService(candidatos, votos, sessoes);
         Scanner sc = new Scanner(System.in);
         System.out.println("Bairros disponíveis:");
-        List<String> bairros = Candidato.listarBairros(sessoes);
+        List<String> bairros = candidatoService.listaBairros();
+
         bairros.forEach(System.out::println);
 
         System.out.println("Digite o nome do bairro: ");
         String bairroSelecionado = sc.nextLine();
 
-        if (!bairros.contains(bairroSelecionado)) {
-            System.out.println("Bairro não encontrado.");
-            return;
+        Map<Candidato, Integer> candidatoVotadoBairro = candidatoService.rankCandidatoVotadoBairro(bairroSelecionado);
+
+        System.out.println("RANKING DE CANDIDATOS");
+        System.out.println("BAIRRO: " + bairroSelecionado);
+
+        int contador = 0;
+        for (Map.Entry<Candidato, Integer> entry : candidatoVotadoBairro.entrySet()) {
+            if (contador == 50) {
+                break;
+            }
+            Candidato candidato = entry.getKey();
+            Integer votos = entry.getValue();
+            System.out.println(
+
+                    " | " + (contador + 1) +
+                            " | CANDIDATO: " + candidato.getNome() +
+                            " | NUMERO CANDIDATO: " + candidato.getNumeroCandidato() +
+                            " | TOTAL DE VOTOS: " + votos);
+
+            contador++;
         }
-
-        List<Candidato> top30Candidatos = Candidato.getTop30CandidatosPorBairro(bairroSelecionado,sessoes,candidatos);
-
-        System.out.println("\nTop 30 Candidatos mais votados no bairro " + bairroSelecionado + ":");
-        top30Candidatos.forEach(candidato -> {
-            int totalVotos = candidato.getTotalVotosPorBairro(
-                    sessoes.stream()
-                            .filter(s -> s.getBairro().equalsIgnoreCase(bairroSelecionado))
-                            .collect(Collectors.toList())
-            );
-            System.out.println("Nome: " + candidato.getNome() +
-                    " - Número: " + candidato.getNumeroCandidato() +
-                    " - Total de Votos: " + totalVotos);
-        });
-
-
     }
 
-
-
-
-
 }
+
+
+
+
+
+

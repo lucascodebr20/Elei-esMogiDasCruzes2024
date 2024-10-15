@@ -29,9 +29,11 @@ public class Main {
 
         SessaoService sessaoService = new SessaoService(candidatos,votos,sessoes);
         CandidatoService candidatoService = new CandidatoService(candidatos,votos,sessoes);
+        View view = new View(candidatos,votos,sessoes);
 
-        candidatoService.votosPorSessao("UNIVERSIDADE DE MOGI DAS CRUZES ","22222");
-        //candidatoService.sessoesMaisVotadasDeUmCandidato("22222");
-        candidatoService.rankCandidatoVotadoBairro("Centro");
+        view.menuPrincipal();
+
+
+
     }
 }

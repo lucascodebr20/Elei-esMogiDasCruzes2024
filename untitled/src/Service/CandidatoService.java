@@ -29,7 +29,7 @@ public class CandidatoService {
                 .sum();
     }
 
-    public Map<Sessao, Integer> sessoesMaisVotadasDeUmCandidato(String numeroCandidato) {
+    public Map<Sessao, Integer> colegioMaisVotadasDeUmCandidato(String numeroCandidato) {
         Map<Sessao, Integer> quantidadeVotosSessao = new HashMap<>();
 
         for (Candidato candidato : candidatos) {
@@ -64,13 +64,38 @@ public class CandidatoService {
                                 Map.Entry::getValue,
                                 (e2, e1) -> e2, LinkedHashMap::new));
 
-        resultadoOrdenado.forEach((sessao, votos) ->
-                System.out.println("Sessão: " + sessao.getColegio() + ", Votos: " + votos)
-        );
-
         return resultadoOrdenado;
     }
 
+    public Map<Sessao, Integer> bairrosMaisVotadasDeUmCandidato(String numeroCandidato) {
+        Map<Sessao, Integer> quantidadeVotosBairro = colegioMaisVotadasDeUmCandidato(numeroCandidato);
+        Map<String, Integer> valorFinalSomado = new HashMap<>();
+        List<String> bairrosUnicos = listaBairros();
+
+        for (String bairro : bairrosUnicos) {
+            valorFinalSomado.put(bairro.trim(), 0);
+        }
+
+        for (Map.Entry<Sessao, Integer> entry : quantidadeVotosBairro.entrySet()) {
+            Sessao sessao = entry.getKey();
+            Integer votos = entry.getValue();
+
+            String bairro = sessao.getBairro();
+            if (valorFinalSomado.containsKey(bairro)) {
+                valorFinalSomado.put(bairro, valorFinalSomado.get(bairro) + votos);
+            }
+        }
+
+        Map <String,Integer> resultadoOrdenado = valorFinalSomado.entrySet().stream()
+                .sorted(Map.Entry.<String,Integer>comparingByValue().reversed())
+                .collect(Collectors.toMap(
+                        Map.Entry::getKey,
+                        Map.Entry::getValue,
+                        (e2, e1) -> e2, LinkedHashMap::new));
+
+        return quantidadeVotosBairro;
+
+    }
 
     public Map<Candidato, Integer> rankCandidatoVotadoBairro(String nomeBairro) {
         Map<Candidato, Integer> resultado = new HashMap<>();
@@ -100,32 +125,13 @@ public class CandidatoService {
                         Map.Entry::getValue,
                         (e2, e1) -> e2, LinkedHashMap::new));
 
-
-        resultadoOrdenado.forEach((candidato, votos) ->
-                System.out.println("Candidato: " + candidato.getNome() + ", Votos: " + votos)
-        );
-
         return resultadoOrdenado;
     }
 
-    
-
-
-
-
-    public Candidato localizarCandidato(String numeroCandidato) {
-        return candidatos.stream()
-                .filter(candidato -> candidato.getNumeroCandidato().equalsIgnoreCase(numeroCandidato))
-                .findFirst()
-                .orElseThrow(() -> new IllegalArgumentException("CANDIDATO NÃO ENCONTRADO"));
-    }
-
-    private String localizarBairro(String sessaoId) {
-        return sessoes.stream()
-                .filter(sessao -> sessao.getSessao().equalsIgnoreCase(sessao.getSessao()))
-                .map(Sessao::getBairro)
-                .findFirst()
-                .orElse("Bairro desconhecido");
+    public List<String> listaBairros() {
+        Set<String> nomesBairros = new HashSet<>();
+        sessoes.removeIf(sessao -> !nomesBairros.add(sessao.getBairro()));
+        return new ArrayList<>(nomesBairros);
     }
 
 
