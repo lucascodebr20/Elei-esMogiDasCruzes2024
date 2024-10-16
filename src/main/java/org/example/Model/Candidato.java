@@ -33,6 +33,13 @@ public class Candidato {
         return votos;
     }
 
+    public int totalVotos() {
+        int total = 0;
+        for (Voto voto : votos) {
+            total += voto.getNumeroVotos();
+        }
+        return total;
+    }
 
     @Override
     public String toString() {

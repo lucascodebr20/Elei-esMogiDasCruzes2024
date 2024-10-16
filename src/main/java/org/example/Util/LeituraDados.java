@@ -8,7 +8,9 @@ import org.example.Model.Voto;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 public class LeituraDados {
 
@@ -37,6 +39,10 @@ public class LeituraDados {
                     candidatos.add(novoCandidado);
                 }
             }
+
+            Set<String> generico = new HashSet<>();
+            candidatos.removeIf(candidato -> !generico.add(candidato.getNome()));
+
             fileReader.close();
             bufferedReader.close();
         } catch (IOException e) {
@@ -152,6 +158,13 @@ public class LeituraDados {
             e.printStackTrace();
         }
     }
+
+    public void limpezaDados() {
+        candidatos.removeIf(candidato -> candidato.getNome().toLowerCase().contains("legenda"));
+        candidatos.removeIf(candidato -> candidato.getNome().toLowerCase().contains("anulado"));
+    }
+
+
 
     public static Sessao encontrarSessaoPorNumeroEZona
             (String numeroSessao, String zonaEleitoralAtual, List<Sessao> sessoes) {

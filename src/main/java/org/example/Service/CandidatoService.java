@@ -128,6 +128,12 @@ public class CandidatoService {
         return resultadoOrdenado;
     }
 
+    public Optional<Candidato> retornaCandidato (String numeroCandidato) {
+        return  candidatos.stream()
+                .filter(candidato -> candidato.getNumeroCandidato().equalsIgnoreCase(numeroCandidato))
+                .findFirst();
+    }
+
     public List<String> listaBairros() {
         Set<String> nomesBairros = new HashSet<>();
         sessoes.removeIf(sessao -> !nomesBairros.add(sessao.getBairro()));
