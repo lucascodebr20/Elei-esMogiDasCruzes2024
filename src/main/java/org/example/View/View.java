@@ -29,13 +29,14 @@ public class View {
         int opcao = 0;
 
         while (opcao != 4) {
-            System.out.println("Menu:");
-            System.out.println("1 - Analisar Model.CandidatoService");
-            System.out.println("2 - Consultar por Sessão");
-            System.out.println("3 - Consultar por Região");
-            System.out.println("4 - Gerar PDF do candidato");
-            System.out.println("5 - Sair");
-            System.out.print("Escolha uma opção: ");
+            System.out.println("= ---------------- Menu ---------------- =");
+            System.out.println("| 1 - Analisar Model.CandidatoService    |");
+            System.out.println("| 2 - Consultar por Sessão               |");
+            System.out.println("| 3 - Consultar por Região               |");
+            System.out.println("| 4 - Gerar PDF do candidato             |");
+            System.out.println("| 5 - Sair                               |");
+            System.out.println("= -------------------------------------- =");
+            System.out.print("\nEscolha uma opção: ");
 
             opcao = scanner.nextInt();
 
@@ -66,7 +67,7 @@ public class View {
     public void analisarCandidato() {
         CandidatoService candidatoService = new CandidatoService(candidatos, votos, sessoes);
         Scanner sc = new Scanner(System.in);
-        System.out.println("Digite o numero do candidato: ");
+        System.out.print("\nDigite o numero do candidato: ");
         String numeroCandidato = sc.nextLine();
 
         Map<Sessao, Integer> sessaoIntegerMap = candidatoService.colegioMaisVotadasDeUmCandidato(numeroCandidato);
@@ -119,9 +120,9 @@ public class View {
 
     public void analisarSessao() {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Digite o numero da Sessão: ");
+        System.out.print("\nDigite o numero da Sessão: ");
         String sessao = sc.nextLine();
-        System.out.println("Digite o numero da Zona Eleitoral ");
+        System.out.print("\nDigite o numero da Zona Eleitoral ");
         String zonaEleitoral = sc.nextLine();
     }
 
@@ -134,7 +135,7 @@ public class View {
 
         bairros.forEach(System.out::println);
 
-        System.out.println("Digite o nome do bairro: ");
+        System.out.print("\nDigite o nome do bairro: ");
         String bairroSelecionado = sc.nextLine();
 
         Map<Candidato, Integer> candidatoVotadoBairro = candidatoService.rankCandidatoVotadoBairro(bairroSelecionado);
@@ -163,7 +164,7 @@ public class View {
     public void gerarPDFdoCandidato() throws IOException {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Digite o número do candidato: ");
+        System.out.print("\nDigite o número do candidato: ");
         String numeroCandidato = scanner.next();
 
         GeradorPDF geradorPDF = new GeradorPDF(candidatos, votos, sessoes);
@@ -171,7 +172,7 @@ public class View {
         if (candidatos.stream().anyMatch(candidato -> candidato.getNumeroCandidato().equalsIgnoreCase(numeroCandidato))) {
             geradorPDF.gerarPDF(numeroCandidato);
         } else {
-            System.out.println("Candidato não encontrado");
+            System.out.println("\nErro: Candidato não encontrado");
         }
 
         scanner.close();
