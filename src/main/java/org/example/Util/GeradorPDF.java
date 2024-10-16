@@ -36,7 +36,8 @@ public class GeradorPDF {
         CandidatoService candidatoService = new CandidatoService(candidatos,votos,sessoes);
         Optional<Candidato> candidatoAtual = candidatoService.retornaCandidato(numeroCandidato);
 
-        String dest = "example.pdf";
+        String dest = candidatoAtual.get().getNome() +
+                candidatoAtual.get().getNumeroCandidato() + ".pdf";
 
         PdfWriter pdfWriter = new PdfWriter(dest);
         PdfDocument pdfDoc = new PdfDocument(pdfWriter);
