@@ -15,6 +15,7 @@ import org.example.Service.CandidatoService;
 import org.example.Service.SessaoService;
 import org.example.Util.GeradorPDF;
 import org.example.Util.LeituraDados;
+import org.example.View.View;
 
 import javax.swing.text.*;
 import java.awt.*;
@@ -41,14 +42,14 @@ public class Main {
         SessaoService sessaoService = new SessaoService(candidatos, votos, sessoes);
         CandidatoService candidatoService = new CandidatoService(candidatos, votos, sessoes);
 
-        //View view = new View(candidatos, votos, sessoes);
-        //view.menuPrincipal();
+        View view = new View(candidatos, votos, sessoes);
+        view.menuPrincipal();
 
         leituraDados.limpezaDados();
 
-        GeradorPDF geradorPDF = new GeradorPDF(candidatos,votos,sessoes);
+        //GeradorPDF geradorPDF = new GeradorPDF(candidatos,votos,sessoes);
 
-        geradorPDF.gerarPDF("13300");
+        //geradorPDF.gerarPDF("13300");
         
 
     }

@@ -4,7 +4,9 @@ import org.example.Model.Candidato;
 import org.example.Model.Sessao;
 import org.example.Model.Voto;
 import org.example.Service.CandidatoService;
+import org.example.Util.GeradorPDF;
 
+import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
@@ -22,7 +24,7 @@ public class View {
 
     }
 
-    public void menuPrincipal() {
+    public void menuPrincipal() throws IOException {
         Scanner scanner = new Scanner(System.in);
         int opcao = 0;
 
@@ -31,7 +33,8 @@ public class View {
             System.out.println("1 - Analisar Model.CandidatoService");
             System.out.println("2 - Consultar por Sessão");
             System.out.println("3 - Consultar por Região");
-            System.out.println("4 - Sair");
+            System.out.println("4 - Gerar PDF do candidato");
+            System.out.println("5 - Sair");
             System.out.print("Escolha uma opção: ");
 
             opcao = scanner.nextInt();
@@ -47,6 +50,10 @@ public class View {
                     analisarRegiao();
                     break;
                 case 4:
+                    gerarPDFdoCandidato();
+                    break;
+                case 5:
+                    System.out.println("Saindo...");
                     break;
                 default:
                     System.out.println("Opção inválida! Tente novamente.");
@@ -151,6 +158,23 @@ public class View {
 
             contador++;
         }
+    }
+
+    public void gerarPDFdoCandidato() throws IOException {
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Digite o número do candidato: ");
+        String numeroCandidato = scanner.next();
+
+        GeradorPDF geradorPDF = new GeradorPDF(candidatos, votos, sessoes);
+
+        if (candidatos.stream().anyMatch(candidato -> candidato.getNumeroCandidato().equalsIgnoreCase(numeroCandidato))) {
+            geradorPDF.gerarPDF(numeroCandidato);
+        } else {
+            System.out.println("Candidato não encontrado");
+        }
+
+        scanner.close();
     }
 
 }
