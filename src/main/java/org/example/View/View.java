@@ -124,6 +124,26 @@ public class View {
         String sessao = sc.nextLine();
         System.out.print("\nDigite o numero da Zona Eleitoral ");
         String zonaEleitoral = sc.nextLine();
+
+        CandidatoService candidatoService = new CandidatoService(candidatos, votos, sessoes);
+
+
+        List<Candidato> candidatosPorSessao = candidatoService.rankCandidatosPorSessao(sessao, zonaEleitoral);
+
+        System.out.println("RANKING DE CANDIDATOS");
+        System.out.println("SESSÃO: " + sessao);
+        System.out.println("ZONA ELEITORAL: " + zonaEleitoral);
+
+        candidatosPorSessao.stream().forEach(candidato -> {
+            System.out.println(
+
+                    " | " +
+                            " | CANDIDATO: " + candidato.getNome() +
+                            " | NUMERO CANDIDATO: " + candidato.getNumeroCandidato() +
+                            " | TOTAL DE VOTOS: " + candidato.totalVotos());
+        });
+
+
     }
 
 

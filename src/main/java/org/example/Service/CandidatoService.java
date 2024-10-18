@@ -7,6 +7,8 @@ import org.example.Model.Voto;
 import java.util.*;
 import java.util.stream.Collectors;
 
+import static java.util.stream.Collectors.toList;
+
 
 public class CandidatoService {
 
@@ -27,6 +29,18 @@ public class CandidatoService {
                 .filter(voto -> voto.getSessao().getColegio().equalsIgnoreCase(nomeColegio))
                 .mapToInt(Voto::getNumeroVotos)
                 .sum();
+    }
+
+    public List<Candidato> rankCandidatosPorSessao(String sessao, String zonaEleitoral) {
+        return candidatos.stream()
+                .map(candidato -> {
+                    Candidato c = new Candidato(candidato.getNome(), candidato.getNumeroCandidato());
+                    candidato.getVotos().stream().filter(voto -> voto.getSessao().getSessao().equals(sessao) && voto.getZonaEleitoral().equals(zonaEleitoral))
+                            .forEach(c::addVoto);
+                    return c;
+                }).sorted((candidato1,candidato2) -> candidato2.totalVotos() - candidato1.totalVotos() )
+                .toList();
+
     }
 
     public Map<Sessao, Integer> colegioMaisVotadasDeUmCandidato(String numeroCandidato) {
@@ -57,12 +71,12 @@ public class CandidatoService {
         }
 
         // ORDENA A LISTA EM ORDEM CRECENTE //
-        Map <Sessao,Integer> resultadoOrdenado = resultadoFinal.entrySet().stream()
-                        .sorted(Map.Entry.<Sessao,Integer>comparingByValue().reversed())
-                        .collect(Collectors.toMap(
-                                Map.Entry::getKey,
-                                Map.Entry::getValue,
-                                (e2, e1) -> e2, LinkedHashMap::new));
+        Map<Sessao, Integer> resultadoOrdenado = resultadoFinal.entrySet().stream()
+                .sorted(Map.Entry.<Sessao, Integer>comparingByValue().reversed())
+                .collect(Collectors.toMap(
+                        Map.Entry::getKey,
+                        Map.Entry::getValue,
+                        (e2, e1) -> e2, LinkedHashMap::new));
 
         return resultadoOrdenado;
     }
@@ -86,8 +100,8 @@ public class CandidatoService {
             }
         }
 
-        Map <String,Integer> resultadoOrdenado = valorFinalSomado.entrySet().stream()
-                .sorted(Map.Entry.<String,Integer>comparingByValue().reversed())
+        Map<String, Integer> resultadoOrdenado = valorFinalSomado.entrySet().stream()
+                .sorted(Map.Entry.<String, Integer>comparingByValue().reversed())
                 .collect(Collectors.toMap(
                         Map.Entry::getKey,
                         Map.Entry::getValue,
@@ -103,23 +117,23 @@ public class CandidatoService {
         for (Candidato candidato : candidatos) {
             Map<Sessao, Integer> quantidadeVotosSessao = new HashMap<>();
 
-                for (Voto voto : candidato.getVotos()) {
-                    Sessao sessao = voto.getSessao();
-                    if (sessao.getBairro().equalsIgnoreCase(nomeBairro)) {
-                        quantidadeVotosSessao.put(sessao,
-                                quantidadeVotosSessao.getOrDefault(sessao, 0) + voto.getNumeroVotos());
-                    }
+            for (Voto voto : candidato.getVotos()) {
+                Sessao sessao = voto.getSessao();
+                if (sessao.getBairro().equalsIgnoreCase(nomeBairro)) {
+                    quantidadeVotosSessao.put(sessao,
+                            quantidadeVotosSessao.getOrDefault(sessao, 0) + voto.getNumeroVotos());
                 }
+            }
 
-                int totalVotos = quantidadeVotosSessao.values().stream()
-                     .mapToInt(Integer::intValue)
-                     .sum();
+            int totalVotos = quantidadeVotosSessao.values().stream()
+                    .mapToInt(Integer::intValue)
+                    .sum();
 
-            resultado.put(candidato,totalVotos);
+            resultado.put(candidato, totalVotos);
         }
 
-        Map <Candidato,Integer> resultadoOrdenado = resultado.entrySet().stream()
-                .sorted(Map.Entry.<Candidato,Integer>comparingByValue().reversed())
+        Map<Candidato, Integer> resultadoOrdenado = resultado.entrySet().stream()
+                .sorted(Map.Entry.<Candidato, Integer>comparingByValue().reversed())
                 .collect(Collectors.toMap(
                         Map.Entry::getKey,
                         Map.Entry::getValue,
@@ -128,8 +142,8 @@ public class CandidatoService {
         return resultadoOrdenado;
     }
 
-    public Optional<Candidato> retornaCandidato (String numeroCandidato) {
-        return  candidatos.stream()
+    public Optional<Candidato> retornaCandidato(String numeroCandidato) {
+        return candidatos.stream()
                 .filter(candidato -> candidato.getNumeroCandidato().equalsIgnoreCase(numeroCandidato))
                 .findFirst();
     }
@@ -139,7 +153,6 @@ public class CandidatoService {
         sessoes.removeIf(sessao -> !nomesBairros.add(sessao.getBairro()));
         return new ArrayList<>(nomesBairros);
     }
-
 
 
 }
