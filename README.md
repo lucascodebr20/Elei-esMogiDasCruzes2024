@@ -47,7 +47,7 @@ Contém as lógicas de negócios relacionadas à análise de votos e candidatos.
 - **Stream API**: Para manipulação de coleções de forma eficiente.
 - **GeradorPDF**: Utilizado para gerar relatórios PDF.
 - **Coleções Java**: `List`, `Map`, `Set`, etc., para armazenamento e manipulação dos dados.
-- 
+  
 ## Possíveis Melhorias Futuras
 
 - Adicionar funcionalidades para exportar dados em outros formatos, como CSV.
